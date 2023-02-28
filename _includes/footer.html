@@ -1,0 +1,17 @@
+<footer class="site-footer">
+    <!-- {{ site.description }} | Jiadai Sun | Last update 20/07/2021<br /> -->
+    <a href="https://info.flagcounter.com/AQ0r"><img src="https://s11.flagcounter.com/count2/AQ0r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" style="display: block; margin-left: auto; margin-right: auto; width: 25%;"></a>
+    <br/>
+    {{ site.description }} | Haohe Liu | Last update {{ site.time | date_to_string: "ordinal", "US" }}<br />
+ 
+    <!-- {% if site.sourcecode %}
+     :: <a href="{{ site.sourcecode }}">Website source</a>
+    {% endif %} -->
+    {% if site.analytics.provider and page.analytics != false %}
+    :: Analytics by {{ site.analytics.provider }}
+    {% endif %}
+    <!-- <script type="text/javascript" src="//counter.websiteout.net/js/36/8/21961/0"></script>
+
+    <script type="text/javascript" id="clustrmaps"
+        src="//clustrmaps.com/map_v2.js?cl=808080&w=300&t=n&d=2URrE5QxdiyV2N0TTGMyfwWluMPLkDFItkbrrGaG5zA&co=eeeeee&ct=ff5353"></script> -->
+</footer>
