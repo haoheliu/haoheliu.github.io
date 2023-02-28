@@ -206,7 +206,7 @@ Highlighted research as the first author:
 - A module that make temporal-resolution of the spectrogram differentiable for efficient audio classificaiton: [DiffRes].
 - Few-shot bioacoustic detection: The 2rd ranking system in the [DCASE 2022 Challenge] Task 5.
 
-Check out my [full papers list](/papers/) for more information.
+Check out my [full papers list](/papers) for more information.
 
 ## Recent News
 <ul>
