@@ -18,8 +18,12 @@ pubs:
           url: https://arxiv.org/abs/2207.02201
         - name: "Code"
           url: https://github.com/haoheliu/AudioLDM
+        - name: "Evaluation Code"
+          url: https://github.com/haoheliu/audioldm_eval
         - name: "Hugging Face Space"
           url: https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation
+        - name: "Replicate API"
+          url: https://replicate.com/haoheliu/audio-ldm 
 
     - title:   "Learning the Spectrogram Temporal Resolution for Audio Classification"
       author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
