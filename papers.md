@@ -70,6 +70,36 @@ pubs:
         - name: "Paper"
           url:  https://arxiv.org/abs/2210.16428
 
+    - title:   "Surrey System for DCASE 2022 Task 5: Few-shot Bio-acoustic Event Detection with Segment-level Metric Learning"
+      author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
+      journal: "DCASE2022 Challenge Technical Report 2022"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      note: "Ranked 2nd place in DCASE 2022 Challenge Task 5:Few-shot Bioacoustic Event Detection."
+      media:
+        - name: "Report"
+          url:  https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Haohe_85_5.pdf
+
+    - title:   "Automated Audio Captioning with Keywords Guidance"
+      author:  "Xinhao Mei, Xubo Liu, **Haohe Liu**, Jianyuan Sun, Mark D. Plumbley, Wenwu Wang"
+      journal: "DCASE2022 Challenge Technical Report 2022"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      note: "Ranked 3rd place in DCASE 2022 Challenge Task 6A: Automated Audio Captioning."
+      media:
+        - name: "Report"
+          url:  https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Mei_117_t6a.pdf
+
+    - title:   "Language-Based Audio Retrieval with Pre-trained Models"
+      author:  "Xinhao Mei, Xubo Liu, **Haohe Liu**, Jianyuan Sun, Mark D. Plumbley, Wenwu Wang"
+      journal: "DCASE2022 Challenge Technical Report 2022"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      note: "Ranked 3rd place in DCASE 2022 Challenge Task 6B: Language-Based Audio Retrieval."
+      media:
+        - name: "Report"
+          url:  https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Mei_118_t6b.pdf
+
     - title:   "Segment-level Metric Learning for Few-shot Bioacoustic Event Detection"
       author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "DCASE Workshop 2022"
@@ -93,6 +123,18 @@ pubs:
         - name: "Paper"
           url:  "https://arxiv.org/abs/2205.14807" #"https://doi.org/10.1109/TCSVT.2022.3143151"
 
+    - title:   "NaturalSpeech: End-to-End Text-to-Speech Synthesis with Human-Level Quality"
+      author:  "Xu Tan\\*, Jiawei Chen\\*, Haohe Liu\\*, Jian Cong, Chen Zhang, Yanqing Liu, Xi Wang, Yichong Leng, Yuanhao Yi, Lei He, Frank Soong, Tao Qin, Sheng Zhao, Tie-Yan Liu"
+      journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
+      year:    "2022"
+      note: under review
+      # image:   "/images/no.svg"
+      media:
+        - name: "Page and demo"
+          url:  https://speechresearch.github.io/naturalspeech/
+        - name: "Paper"
+          url:  "https://arxiv.org/abs/2205.04421" #"https://doi.org/10.1109/TCSVT.2022.3143151"
+
     - title:   "VoiceFixer: A Unified Framework for High-Fidelity Speech Restoration"
       author:  "**Haohe Liu**\\*, Xubo Liu\\*, Qiuqiang Kong, Qiao Tian, Yan Zhao, Deliang Wang, Chuanzeng Huang, Yuxuan Wang"
       journal: "INTERSPEECH"
@@ -106,7 +148,6 @@ pubs:
           url:  "https://arxiv.org/abs/2204.05841"
         - name: "Code"
           url:  "https://github.com/haoheliu/voicefixer"         
-
 
     - title:   "Neural Vocoder is All You Need for Speech Super-resolution"
       author:  "Haohe Liu, Woosung Choi, **Xubo Liu**, Qiuqiang Kong, Qiao Tian, DeLiang Wang"
