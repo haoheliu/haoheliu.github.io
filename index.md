@@ -164,7 +164,7 @@ At the University of Surrey, I am fortunate to be advised by [Prof. Mark D. Plum
 **I'm open to research and cooperations on related topics. Feel free to drop me an email.**
 
 <!-- <font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font> -->
-{% include twitter.html %}
+
 ## Research highlights
 My research include tasks related with audio generative model, audio source separation, audio quality enhancement, audio recognition.
 
@@ -269,7 +269,7 @@ Check out my [full papers list](/papers/) for more information.
 
 <!-- ## Updates from my twitter -->
 
-
+{% include twitter.html %}
 
 <!--Hyperlinks -->
 [School of Computer Science]: https://jsj.nwpu.edu.cn/en/Home.htm

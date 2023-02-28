@@ -5,10 +5,10 @@ permalink: /papers
 
 pubs:
     - title:   "AudioLDM: Text-to-Audio Generation with Latent Diffusion Models"
-      author:  "**Haohe Liu**\\*, Zehua Chen\\*, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley (\\* equal contribution)"
+      author:  "**Haohe Liu**\\*, Zehua Chen\\*, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv: 2301.12503"
       year:    "2023" 
-      # image:   "/images/no.svg"
+      image:   "/images/AudioLDM-main.jpg"
       media:
         - name: "Page"
           url:  https://audioldm.github.io/
@@ -26,7 +26,7 @@ pubs:
       journal: "arXiv preprint arXiv:2210.01719"
       # note:    "in submission"
       year:    "2022"
-      # image:   "/images/no.svg"
+      # image:   "/images/diffres.png"
       media:
         - name: "Paper"
           url:  "https://arxiv.org/abs/2210.01719"
@@ -62,7 +62,7 @@ pubs:
           url:  https://arxiv.org/abs/2210.00943
 
     - title:   "Visually-awared Audio Captioning with Adaptive Audio-Visual Attention"
-      author:  "Xubo Liu\\*, Qiushi Huang\\*, Xinhao Mei\\*, **Haohe Liu**, Qiuqiang Kong, Jianyuan Sun, Ko Tom, Yu Zhang, Lilian H. Tang, Mark D. Plumbley, Volkan Kılıc4, Wenwu Wang(\\* equal contribution)"
+      author:  "Xubo Liu\\*, Qiushi Huang\\*, Xinhao Mei\\*, **Haohe Liu**, Qiuqiang Kong, Jianyuan Sun, Ko Tom, Yu Zhang, Lilian H. Tang, Mark D. Plumbley, Volkan Kılıc4, Wenwu Wang"
       journal: "arXiv preprint arXiv:2210.16428"
       year:    "2022"
       # image:   "/images/no.svg"
@@ -205,7 +205,7 @@ pubs:
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
 <!-- [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br /> -->
-- **{{pub.title}}**<br />
+**{{pub.title}}**<br />
 {{pub.author}}<br />
 *{{pub.journal}}* {% if pub.note %} *({{pub.note}})* {% endif %} {% if pub.year %} *{{pub.year}}* {% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %} {% for item in pub.media %} {% if item.url %} [[{{item.name}}]({{item.url}}){:target="_blank"}] {% else %} [{{item.name}}] {% endif %}
