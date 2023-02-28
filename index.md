@@ -151,7 +151,7 @@ news:
 
 <!-- About me -->
 
-[![GitHub stars](https://img.shields.io/github/stars/haoheliu?style=social)](https://github.com/haoheliu) &nbsp;&nbsp;&nbsp;&nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/haoheliu?style=social)](https://twitter.com/haoheliu) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/haohe-liu-4483a71a4/) &nbsp;&nbsp;&nbsp;&nbsp; [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=g3O4lJMAAAAJ)
+[![GitHub stars](https://img.shields.io/github/stars/haoheliu?style=social)](https://github.com/haoheliu) &nbsp;&nbsp;&nbsp;&nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/LiuHaohe?style=social)](https://twitter.com/LiuHaohe) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/haohe-liu-4483a71a4/) &nbsp;&nbsp;&nbsp;&nbsp; [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=g3O4lJMAAAAJ)
 
 Email: *haohe.liu AT surrey dot ac dot uk*
 
@@ -164,7 +164,7 @@ At the University of Surrey, I am fortunate to be advised by [Prof. Mark D. Plum
 **I'm open to research and cooperations on related topics. Feel free to drop me an email.**
 
 <!-- <font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font> -->
-
+{% include twitter.html %}
 ## Research highlights
 My research include tasks related with audio generative model, audio source separation, audio quality enhancement, audio recognition.
 
@@ -267,9 +267,9 @@ Check out my [full papers list](/papers/) for more information.
 
 <!-- <hr style="height:2px;border:none;color:#333;background-color:#333;" /> -->
 
-## Updates from my twitter
+<!-- ## Updates from my twitter -->
 
-{% include twitter.html %}
+
 
 <!--Hyperlinks -->
 [School of Computer Science]: https://jsj.nwpu.edu.cn/en/Home.htm
