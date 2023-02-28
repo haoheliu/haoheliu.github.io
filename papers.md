@@ -24,6 +24,8 @@ pubs:
           url: https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation
         - name: "Replicate API"
           url: https://replicate.com/haoheliu/audio-ldm 
+        - name: "Others"
+          url: "https://docs.google.com/document/d/1ZM6r3ZtJ4mdtsYaTtUSG3_LaiaSCUxvCf8UvCE2HRls/edit?usp=sharing"
 
     - title:   "Learning the Spectrogram Temporal Resolution for Audio Classification"
       author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
