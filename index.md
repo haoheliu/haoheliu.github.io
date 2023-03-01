@@ -116,7 +116,7 @@ competitions:
 news:
     shown:
       - time: 2023-02-28 &#127775;
-        note: Youtube coverage of AudioLDM [<a href="linhttps://www.youtube.com/watch?v=_0VTltNYhao&list=LL&index=2k">link</a>]. Comment area is very interesting. Thanks MattVidPro AI!
+        note: Youtube coverage of AudioLDM [<a href="https://www.youtube.com/watch?v=_0VTltNYhao&list=LL&index=2k">link</a>]. Comment area is very interesting. Thanks MattVidPro AI!
       - time: 2023-02-26 &#127775;
         note: Github repos reach 2000 stars in total!
       - time: 2023-02-24 &#128100;
