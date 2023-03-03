@@ -183,7 +183,8 @@ news:
 
 Email: *haohe.liu AT surrey dot ac dot uk*
 
-Pronounciation of Haohe: Hao-he (the same "he" as "hello")
+Pronounciation of Haohe: <span style="font-family: &quot;Doulos SIL&quot;, sans-serif; font-style: italic;">|hɑʊ'hə|</span> (the same "he" as "hello")
+
 
 {% include image.html url="images/longmen.jpg" caption="" width="190px" align="right" %}
 
