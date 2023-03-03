@@ -183,6 +183,8 @@ news:
 
 Email: *haohe.liu AT surrey dot ac dot uk*
 
+Pronounciation of Haohe: Hao-he (the same "he" as "hello")
+
 {% include image.html url="images/longmen.jpg" caption="" width="190px" align="right" %}
 
 I’m Haohe Liu, a second-year Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. Most of my studies are open-sourced. Currently, I'm working on text-to-general-audio generation, with more emphasis on better quality, controllability, immersivity, and text relevancy.
