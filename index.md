@@ -128,7 +128,7 @@ news:
       - time: 2023-02-17 &#128100;
         note: Gave a remote presentation about AudioLDM to NetEase, China. Thanks Pengcheng for the invitation!
       - time: 2023-02-15 &#128100;
-        note: Live steaming and presenting AudioLDM on WeChat (in Chinese), with 4000+ viewers!
+        note: Live steaming and presenting AudioLDM on WeChat (in Chinese), with 4000+ viewers! [<a href="pdf/AudioLDM_2023_02_15.pdf">slides</a>]
       - time: 2023-02-15 &#128227;
         note: A paper was accepted in ICASSP 2023.
       - time: 2023-02-13 &#128227;
