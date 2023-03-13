@@ -178,7 +178,7 @@ news:
         note: Accept a Ph.D. offer from the Ohio State University!
 
 pubs:
-    - title: "Leveraging Pre-trained AudioLDM for Sound Generation: A Benchmark Study"
+    - title: "👤 Leveraging Pre-trained AudioLDM for Sound Generation: A Benchmark Study"
       author:  "Yi Yuan\\*, **Haohe Liu**\\*, Jinhua Liang, Xubo Liu, Mark D. Plumbley, Wenwu Wang"
       journal: "arXiv preprint arXiv: 2303.03857"
       year:    "2023" 
@@ -189,7 +189,7 @@ pubs:
         - name: "Paper"
           url:  https://arxiv.org/abs/2303.03857
 
-    - title:   "AudioLDM: Text-to-Audio Generation with Latent Diffusion Models"
+    - title:   "👤 AudioLDM: Text-to-Audio Generation with Latent Diffusion Models"
       author:  "**Haohe Liu**\\*, Zehua Chen\\*, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv: 2301.12503"
       year:    "2023" 
@@ -226,7 +226,7 @@ pubs:
         - name: "Paper"
           url:  https://arxiv.org/abs/2210.00943
 
-    - title:   "Learning the Spectrogram Temporal Resolution for Audio Classification"
+    - title:   "👤 Learning the Spectrogram Temporal Resolution for Audio Classification"
       author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv:2210.01719"
       year:    "2022"
@@ -252,7 +252,7 @@ pubs:
         - name: "Demo"
           url: "https://resgrad1.github.io/"  
 
-    - title:   "Ontology-aware Learning and Evaluation for Audio Tagging"
+    - title:   "👤 Ontology-aware Learning and Evaluation for Audio Tagging"
       author:  "**Haohe Liu**, Qiuqiang Kong, Xubo Liu, Xinhao Mei, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv:2211.12195"
       year:    "2022"
@@ -273,7 +273,7 @@ pubs:
         - name: "Paper"
           url:  https://arxiv.org/abs/2210.16428
 
-    - title:   "Surrey System for DCASE 2022 Task 5: Few-shot Bio-acoustic Event Detection with Segment-level Metric Learning"
+    - title:   "👤 Surrey System for DCASE 2022 Task 5: Few-shot Bio-acoustic Event Detection with Segment-level Metric Learning"
       author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "DCASE2022 Challenge Technical Report 2022"
       year:    "2022"
@@ -308,7 +308,7 @@ pubs:
         - content: "System based on this method ranks 2nd in DCASE 2022 Challenge Task 6B"
 
 
-    - title:   "Segment-level Metric Learning for Few-shot Bioacoustic Event Detection"
+    - title:   "👤 Segment-level Metric Learning for Few-shot Bioacoustic Event Detection"
       author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "DCASE Workshop 2022"
       year:    "2022"
@@ -341,7 +341,7 @@ pubs:
         - name: "Paper"
           url:  "https://arxiv.org/abs/2205.14807" #"https://doi.org/10.1109/TCSVT.2022.3143151"
 
-    - title:   "NaturalSpeech: End-to-End Text-to-Speech Synthesis with Human-Level Quality"
+    - title:   "👤 NaturalSpeech: End-to-End Text-to-Speech Synthesis with Human-Level Quality"
       author:  "Xu Tan\\*, Jiawei Chen\\*, Haohe Liu\\*, Jian Cong, Chen Zhang, Yanqing Liu, Xi Wang, Yichong Leng, Yuanhao Yi, Lei He, Frank Soong, Tao Qin, Sheng Zhao, Tie-Yan Liu"
       journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
       year:    "2022"
@@ -356,7 +356,7 @@ pubs:
         - name: "Paper"
           url:  "https://arxiv.org/abs/2205.04421" #"https://doi.org/10.1109/TCSVT.2022.3143151"
 
-    - title:   "VoiceFixer: A Unified Framework for High-Fidelity Speech Restoration"
+    - title:   "👤 VoiceFixer: A Unified Framework for High-Fidelity Speech Restoration"
       author:  "**Haohe Liu**\\*, Xubo Liu\\*, Qiuqiang Kong, Qiao Tian, Yan Zhao, Deliang Wang, Chuanzeng Huang, Yuxuan Wang"
       journal: "INTERSPEECH"
       year:    "2022"
@@ -370,7 +370,7 @@ pubs:
         - name: "Code"
           url:  "https://github.com/haoheliu/voicefixer"         
 
-    - title:   "VoiceFixer: Toward General Speech Restoration with Neural Vocoder"
+    - title:   "👤 VoiceFixer: Toward General Speech Restoration with Neural Vocoder"
       author:  "**Haohe Liu**, Qiuqiang Kong, Qiao Tian, Yan Zhao, Deliang Wang, Chuanzeng Huang, Yuxuan Wang"
       journal: "arXiv preprint arXiv:2109.13731"
       year:    "2021"
@@ -388,12 +388,16 @@ pubs:
       additional: 
         - content: "2023-03-02 VoiceFixer reaches 400 stars on Github!"
 
-    - title:   "Neural Vocoder is All You Need for Speech Super-resolution"
+    - title:   "👤 Neural Vocoder is All You Need for Speech Super-resolution"
       author:  "**Haohe Liu**, Woosung Choi, Xubo Liu, Qiuqiang Kong, Qiao Tian, DeLiang Wang"
       journal: "INTERSPEECH"
       year:    "2022"
       doi:     
-      # image:   "/images/no.svg"
+      images:
+        - caption: "Architecture"
+          url: "images/nvsr-main.png"
+        - caption: "Example"
+          url: "images/nvsr-example.png"
       media:
         - name: "Paper"
           url: "https://arxiv.org/abs/2203.15147"
@@ -434,7 +438,7 @@ pubs:
         - name: "Paper"
           url: "https://arxiv.org/abs/2203.02838"
 
-    - title:   "CWS-PResUNet: Music Source Separation with Channel-wise Subband Phase-aware ResUNet"
+    - title:   "👤 CWS-PResUNet: Music Source Separation with Channel-wise Subband Phase-aware ResUNet"
       author:  "**Haohe Liu** and Qiuqiang Kong and Jiafeng Liu"
       journal: "ISMIR Music Demixing Workshop"
       year:    "2021"
@@ -469,7 +473,7 @@ pubs:
           url: "https://arxiv.org/abs/2008.05216"
 
 
-    - title:   "Channel-wise Subband Input for Better Voice and Accompaniment Separation on High Resolution Music"
+    - title:   "👤 Channel-wise Subband Input for Better Voice and Accompaniment Separation on High Resolution Music"
       author:  "**Haohe Liu**, Lei Xie, Jian Wu, Geng Yang"
       journal: "INTERSPEECH"
       year:    "2020"
@@ -614,7 +618,11 @@ Highlighted research as the first author:
 
 ## Papers
 
-**Click the image to zoom in and zoom out**
+<p style="color: red; font-weight: bold;">Click the image to zoom in and zoom out</p>
+
+👤 *stands for first author*
+
+<hr>
 
 {% assign thumbnail="left" %}
 {% for pub in page.pubs %}
