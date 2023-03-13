@@ -17,8 +17,7 @@
     <script>
         // Get the overlay and image elements
         var overlay = document.getElementById('overlay');
-        var overlayImg = overlay.getElementsByTagName('img')[0];
-        console.log(overlayImg)
+        var overlayImg = overlay.querySelector('#imgoverlay');
         // Show the overlay and set its image when an image is clicked
         function showOverlay(img) {
             overlayImg.src = img.src;

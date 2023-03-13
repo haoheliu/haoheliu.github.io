@@ -1,11 +1,11 @@
 <div class="captioned-img align{{include.align}}">
     <!-- <a href="{{ include.url }}"> -->
 	<div class="zoom">
-		<img src="{{ include.url }}" height="{{ include.height }}" width="{{ include.width }}" alt="example image" onclick="showOverlay(this)">
+		<img src="{{ include.url }}" height="{{ include.height }}" width="{{ include.width }}" alt="example image" onclick="showOverlay(this)" id="imgoverlay">
         {% if include.caption %}<div class="caption">{{ include.caption }}</div>{% endif %}
 	</div>
 
     <div id="overlay" onclick="hideOverlay()">
-		<img src="{{ include.url }}" alt="example image">
+		<img src="{{ include.url }}" alt="example image" id="imgoverlay">
 	</div>
 </div>
