@@ -14,4 +14,20 @@
 
     <script type="text/javascript" id="clustrmaps"
         src="//clustrmaps.com/map_v2.js?cl=808080&w=300&t=n&d=2URrE5QxdiyV2N0TTGMyfwWluMPLkDFItkbrrGaG5zA&co=eeeeee&ct=ff5353"></script> -->
+    <script>
+        // Get the overlay and image elements
+        var overlay = document.getElementById('overlay');
+        var overlayImg = overlay.getElementsByTagName('img')[0];
+        console.log(overlayImg)
+        // Show the overlay and set its image when an image is clicked
+        function showOverlay(img) {
+            overlayImg.src = img.src;
+            overlay.style.display = 'block';
+        }
+
+        // Hide the overlay when clicked
+        function hideOverlay() {
+            overlay.style.display = 'none';
+        }
+    </script>
 </footer>

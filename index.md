@@ -115,6 +115,8 @@ competitions:
 
 news:
     shown:
+      - time: 2023-03-08 &#128100;
+        note: Gave a remote presentation about AudioLDM to Mila, University of montreal # TODO
       - time: 2023-02-28 &#127775;
         note: Youtube coverage of AudioLDM [<a href="https://www.youtube.com/watch?v=_0VTltNYhao&list=LL&index=2k">link</a>]. Comment area is very interesting. Thanks MattVidPro AI!
       - time: 2023-02-26 &#127775;
@@ -158,7 +160,7 @@ news:
       - time: 2021-10-26 &#128187;
         note: Joined the Microsoft Research Asia as a research intern.
       - time: 2021-09-30 &#128100;
-        note: Gave a talk on VENTURE 将门创投 (In Chinese) about the voicefixer I developed recently! 
+        note: Gave a talk on VENTURE 将门创投 (In Chinese) about the voicefixer I developed recently! [<a href="https://www.techbeat.net/talk-info?id=586">link</a>]
       - time: 2021-08-19 &#128195;
         note: Accept the Ph.D. offer from the CVSSP, University of Surrey, with tuition fee waiver and stipend!
       - time: 2021-07-31 &#128227;

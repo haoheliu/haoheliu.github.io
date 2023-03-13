@@ -8,7 +8,9 @@ pubs:
       author:  "**Haohe Liu**\\*, Zehua Chen\\*, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv: 2301.12503"
       year:    "2023" 
-      image:   "/images/AudioLDM-main.jpg"
+      images:  
+        - caption: "Model Architecture"
+          url: "/images/AudioLDM-main.jpg"
       media:
         - name: "Page"
           url:  https://audioldm.github.io/
@@ -26,13 +28,17 @@ pubs:
           url: https://replicate.com/haoheliu/audio-ldm 
         - name: "Others"
           url: "https://docs.google.com/document/d/1ZM6r3ZtJ4mdtsYaTtUSG3_LaiaSCUxvCf8UvCE2HRls/edit?usp=sharing"
+      additional: 
+        - content: "2023-03-08 AudioLDM have reached 1000 stars on Github!"
+        - content: "2023-03-09 AudioLDM reaches 400 likes on Hugging Face! Currently rank the TOP 25 liked spaces!"
 
     - title:   "Learning the Spectrogram Temporal Resolution for Audio Classification"
       author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv:2210.01719"
-      # note:    "in submission"
       year:    "2022"
-      # image:   "/images/diffres.png"
+      images:   
+        - caption: "DiffRes Architecture"
+          url: "/images/diffres.png"
       media:
         - name: "Paper"
           url:  "https://arxiv.org/abs/2210.01719"
@@ -40,9 +46,12 @@ pubs:
           url:  https://github.com/haoheliu/diffres-python
 
     - title:   "ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech"
-      author:  "LZehua Chen, Yihan Wu, Yichong Leng, Jiawei Chen, **Haohe Liu**, Xu Tan, Yang Cui, Ke Wang, Lei He, Sheng zhao, Jiang Bian, Danilo Mandic"
+      author:  "Zehua Chen, Yihan Wu, Yichong Leng, Jiawei Chen, **Haohe Liu**, Xu Tan, Yang Cui, Ke Wang, Lei He, Sheng Zhao, Jiang Bian, Danilo Mandic"
       journal: "arXiv preprint arXiv:2212.14518"
       year:    "2022"
+      images:
+        - caption: "Pipline"
+          url: "images/DiffSkinpipeline.png"
       media:
         - name: "Paper"
           url: "https://arxiv.org/abs/2212.14518"
@@ -54,6 +63,9 @@ pubs:
       journal: "arXiv preprint arXiv:2211.12195"
       year:    "2022"
       # image:   "/images/no.svg"
+      images: 
+        - caption: "Main idea"
+          url: "images/ontology-based-map.png"
       media:
         - name: "Page"
           url:  https://arxiv.org/abs/2211.12195
@@ -123,6 +135,9 @@ pubs:
       year:    "2022"
       doi:     
       # image:   "/images/no.svg"
+      images: 
+        - caption: "Model Architecture"
+          url: "images/BinarualGrad.png"
       media:
         - name: "Page"
           url:  https://speechresearch.github.io/binauralgrad/
@@ -135,6 +150,9 @@ pubs:
       year:    "2022"
       note: under review
       # image:   "/images/no.svg"
+      images:
+        - caption: "Model Architecture"
+          url: "images/NaturalSpeech.png"
       media:
         - name: "Page and demo"
           url:  https://speechresearch.github.io/naturalspeech/
@@ -154,6 +172,24 @@ pubs:
           url:  "https://arxiv.org/abs/2204.05841"
         - name: "Code"
           url:  "https://github.com/haoheliu/voicefixer"         
+
+    - title:   "VoiceFixer: Toward General Speech Restoration with Neural Vocoder"
+      author:  "**Haohe Liu**, Qiuqiang Kong, Qiao Tian, Yan Zhao, Deliang Wang, Chuanzeng Huang, Yuxuan Wang"
+      journal: "arXiv preprint arXiv:2109.13731"
+      year:    "2021"
+      doi:     
+      images:   
+        - caption: "VoiceFixer Architecture"
+          url: "images/VoiceFixer.png"
+      media:
+        - name: "Page"
+          url:  https://haoheliu.github.io/demopage-voicefixer/
+        - name: "Paper"
+          url:  "https://arxiv.org/abs/2204.05841"
+        - name: "Code"
+          url:  "https://github.com/haoheliu/voicefixer"  
+      additional: 
+        - content: "2023-03-02 VoiceFixer reaches 400 stars on Github!"
 
     - title:   "Neural Vocoder is All You Need for Speech Super-resolution"
       author:  "Haohe Liu, Woosung Choi, **Xubo Liu**, Qiuqiang Kong, Qiao Tian, DeLiang Wang"
@@ -234,7 +270,11 @@ pubs:
       journal: "INTERSPEECH"
       year:    "2020"
       doi:     
-      # image:   "/images/no.svg"
+      images:   
+        - caption: "Motivation"
+          url: "images/cws-intuition.png"
+        - caption: "Architecture"
+          url: "images/cws-architecture.png"
       media:
         - name: "Paper"
           url: "https://arxiv.org/abs/2102.09971"
@@ -245,11 +285,15 @@ pubs:
 
 ---
 
+**Click the image to zoom in and zoom out**
 
 {% assign thumbnail="left" %}
 {% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
+
+{% if pub.images %}
+{% for img in pub.images %}
+  {% include image.html url=img.url caption=img.caption height="80px" width="120px" align=thumbnail %}
+{% endfor %}
 {% endif %}
 <!-- [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br /> -->
 **{{pub.title}}**<br />
@@ -258,4 +302,15 @@ pubs:
 {% if pub.media %} {% for item in pub.media %} {% if item.url %} [[{{item.name}}]({{item.url}}){:target="_blank"}] {% else %} [{{item.name}}] {% endif %}
 {% endfor %}
 {% endif %}
+{% if pub.additional %}
+<div>
+    <div class="button">Additional Informations</div>
+    <ul class="list">
+      {% for add in pub.additional %}
+        <li>{{ add.content }}</li>
+      {% endfor %}
+    </ul>
+</div>
+{% endif %}
+<hr>
 {% endfor %}
