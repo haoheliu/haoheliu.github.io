@@ -115,7 +115,7 @@ competitions:
 news:
     shown:
       - time: 2023-03-08 &#128100;
-        note: Gave a remote presentation about AudioLDM to Mila, University of montreal # TODO
+        note: Gave a remote presentation about AudioLDM to Mila, University of montreal [<a href="https://www.youtube.com/watch?v=6qtL9_T8m3c&t=972s">link to recording</a>]
       - time: 2023-02-28 &#127775;
         note: Youtube coverage of AudioLDM [<a href="https://www.youtube.com/watch?v=_0VTltNYhao&list=LL&index=2k">link</a>]. Comment area is very interesting. Thanks MattVidPro AI!
       - time: 2023-02-26 &#127775;
