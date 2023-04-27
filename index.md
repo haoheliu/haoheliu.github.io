@@ -114,6 +114,12 @@ competitions:
 
 news:
     shown:
+      - time: 2023-04-25 &#128227;
+        note: AudioLDM is accepted by ICML, International Conference on Machine Learning.
+      - time: 2023-04-14 &#128100;
+        note: Remotely present my recent research to Chinese Academy of Science (中科院声学所)
+      - time: 2023-04-10 &#128100;
+        note: Remotely present my recent research to Gaoling School of Artificial Intelligence, Remin University of China (中国人民大学高瓴人工智能学院)
       - time: 2023-03-08 &#128100;
         note: Gave a remote presentation about AudioLDM to Mila, University of montreal [<a href="https://www.youtube.com/watch?v=6qtL9_T8m3c&t=972s">link to recording</a>]
       - time: 2023-02-28 &#127775;
@@ -199,7 +205,7 @@ pubs:
 
     - title:   "👤 AudioLDM: Text-to-Audio Generation with Latent Diffusion Models"
       author:  "**Haohe Liu**\\*, Zehua Chen\\*, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley"
-      journal: "arXiv preprint arXiv: 2301.12503"
+      journal: "International Conference on Machine Learning (ICML)"
       year:    "2023" 
       images:  
         - caption: "Model Architecture"
