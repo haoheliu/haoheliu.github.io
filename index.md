@@ -114,6 +114,10 @@ competitions:
 
 news:
     shown:
+      - time: 2023-05-18 &#128227;
+        note: Three papers are accepted by INTERSPEECH 2023!
+      - time: 2023-05-11 &#128100;
+        note: Visit Department of Engineering, University of Cambridge, UK, for presentation and discussions.
       - time: 2023-04-25 &#128227;
         note: AudioLDM is accepted by ICML, International Conference on Machine Learning.
       - time: 2023-04-14 &#128100;
@@ -184,9 +188,19 @@ news:
         note: Accept a Ph.D. offer from the Ohio State University!
 
 pubs:
+    - title: "Universal Source Separation with Weakly Labelled Data"
+      author:  "Qiuqiang Kong, Ke Chen, **Haohe Liu**, Xingjian Du, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Mark D. Plumbley"
+      journal: "arXiv preprint arXiv:2305.07447"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/abs/2305.07447
+        - name: "code"
+          url: https://github.com/bytedance/uss
+
     - title: "WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research"
       author:  "Xinhao Mei, Chutong Meng, **Haohe Liu**, Qiuqiang Kong, Tom Ko, Chengqi Zhao, Mark D. Plumbley, Yuexian Zou, Wenwu Wang"
-      journal: "arXiv preprintarXiv:2303.17395"
+      journal: "arXiv preprint arXiv:2303.17395"
       year:    "2023" 
       media:
         - name: "Paper"
@@ -231,6 +245,36 @@ pubs:
         - content: "2023-03-08 AudioLDM have reached 1000 stars on Github!"
         - content: "2023-03-09 AudioLDM reaches 400 likes on Hugging Face! Currently rank the TOP 25 liked spaces!"
 
+    - title:   "Adapting Language-Audio Models as Few-Shot Audio Learners"
+      author:  "Jinhua Liang, Xubo Liu, **Haohe Liu**, Huy Phan, Emmanouil Benetos, Mark D. Plumbley, Wenwu Wang"
+      journal: "INTERSPEECH"
+      year:    "2023"
+      # image:   "/images/no.svg"
+      # media:
+      #   - name: "Paper"
+      #     url:  https://arxiv.org/abs/2210.16428
+
+    - title:   "👤 Ontology-aware Learning and Evaluation for Audio Tagging"
+      author:  "**Haohe Liu**, Qiuqiang Kong, Xubo Liu, Xinhao Mei, Wenwu Wang, Mark D. Plumbley"
+      journal: "INTERSPEECH"
+      year:    "2023"
+      # image:   "/images/no.svg"
+      images: 
+        - caption: "Main idea"
+          url: "images/ontology-based-map.png"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/abs/2211.12195
+
+    - title:   "Visually-awared Audio Captioning with Adaptive Audio-Visual Attention"
+      author:  "Xubo Liu\\*, Qiushi Huang\\*, Xinhao Mei\\*, **Haohe Liu**, Qiuqiang Kong, Jianyuan Sun, Ko Tom, Yu Zhang, Lilian H. Tang, Mark D. Plumbley, Volkan Kılıc4, Wenwu Wang"
+      journal: "INTERSPEECH"
+      year:    "2023"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/abs/2210.16428
+
     - title:   "Simple Pooling Front-ends For Efficient Audio Classification"
       author:  "Xubo Liu, **Haohe Liu**, Qiuqiang Kong, Xinhao Mei, Mark D. Plumbley, Wenwu Wang"
       journal: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
@@ -265,27 +309,6 @@ pubs:
           url: "https://arxiv.org/abs/2212.14518"
         - name: "Demo"
           url: "https://resgrad1.github.io/"  
-
-    - title:   "👤 Ontology-aware Learning and Evaluation for Audio Tagging"
-      author:  "**Haohe Liu**, Qiuqiang Kong, Xubo Liu, Xinhao Mei, Wenwu Wang, Mark D. Plumbley"
-      journal: "arXiv preprint arXiv:2211.12195"
-      year:    "2022"
-      # image:   "/images/no.svg"
-      images: 
-        - caption: "Main idea"
-          url: "images/ontology-based-map.png"
-      media:
-        - name: "Paper"
-          url:  https://arxiv.org/abs/2211.12195
-
-    - title:   "Visually-awared Audio Captioning with Adaptive Audio-Visual Attention"
-      author:  "Xubo Liu\\*, Qiushi Huang\\*, Xinhao Mei\\*, **Haohe Liu**, Qiuqiang Kong, Jianyuan Sun, Ko Tom, Yu Zhang, Lilian H. Tang, Mark D. Plumbley, Volkan Kılıc4, Wenwu Wang"
-      journal: "arXiv preprint arXiv:2210.16428"
-      year:    "2022"
-      # image:   "/images/no.svg"
-      media:
-        - name: "Paper"
-          url:  https://arxiv.org/abs/2210.16428
 
     - title:   "👤 Surrey System for DCASE 2022 Task 5: Few-shot Bio-acoustic Event Detection with Segment-level Metric Learning"
       author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
