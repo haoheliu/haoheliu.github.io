@@ -130,7 +130,7 @@ competitions:
 news:
     shown:
       - time: 2023-06-02 &#128227;
-        note: Rank 1st place in DCASE Challenge 2023 Task 7: Foley Sound Synthesis.
+        note: Rank 1st place in DCASE Challenge 2023 Task 7 - Foley Sound Synthesis.
       - time: 2023-05-18 &#128227;
         note: Three papers are accepted by INTERSPEECH 2023!
       - time: 2023-05-11 &#128100;
