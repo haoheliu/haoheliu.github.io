@@ -34,6 +34,21 @@ interns:
                 -- Mentor: [Qiuqiang Kong]; Research output: [VoiceFixer], [CWS-PResUNet], [NVSR], etc. All code are open-sourced. "
 
 competitions:
+    - title: First place
+      author:  "Yi Yuan, **Haohe Liu**, Xubo Liu, Xiyuan Kang, Mark D.Plumbley, Wenwu Wang"
+      journal: "DCASE Challenge Task 7:Foley Sound Synthesis"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Yi_67_t7.pdf"
+        - name: "Demo"
+          url: "https://yyua8222.github.io/dcase_2023_t7_demo/"
+        - name: "Code"
+          url: "https://github.com/yyua8222/Dcase2023_task7"
+        - name: "leaderboard"
+          url: "https://dcase.community/challenge2023/task-foley-sound-synthesis-results"  
+          
     - title: Second place
       author:  "**Haohe Liu**, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
       journal: "DCASE Challenge Task 5:Few-shot Bioacoustic Event Detection"
@@ -114,6 +129,8 @@ competitions:
 
 news:
     shown:
+      - time: 2023-06-02 &#128227;
+        note: Rank 1st place in DCASE Challenge 2023 Task 7: [Foley Sound Synthesis](https://yyua8222.github.io/dcase_2023_t7_demo/).
       - time: 2023-05-18 &#128227;
         note: Three papers are accepted by INTERSPEECH 2023!
       - time: 2023-05-11 &#128100;
