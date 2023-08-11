@@ -226,6 +226,18 @@ pubs:
         - name: "Discord Community"
           url: https://discord.gg/b64SEmdf
 
+    - title: "Separate Anything You Describe"
+      author:  "Xubo Liu, Qiuqiang Kong, Yan Zhao, **, Yi Yuan, Yuzhuo Liu, Rui Xia, Yuxuan Wang, Mark D Plumbley, Wenwu Wang"
+      journal: "arXiv preprint arXiv:2308.05037"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2308.05037
+        - name: "Code"
+          url:  https://github.com/Audio-AGI/AudioSep
+        - name: "Project Page; Demo"
+          url:  https://audio-agi.github.io/Separate-Anything-You-Describe/
+          
     - title: "WavJourney: Compositional Audio Creation with Large Language Models"
       author:  "Xubo Liu, Zhongkai Zhu, **Haohe Liu**, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, Mark D Plumbley, Wenwu Wang"
       journal: "arXiv preprint arXiv:2307.14335"
