@@ -213,7 +213,7 @@ pubs:
       year:    "2023"
       images:  
         - caption: "Architecture"
-          url: "images/audioldm2.png"
+          url: "images/audioldm2.jpg"
       media:
         - name: "Paper"
           url:  https://arxiv.org/pdf/2308.05734
