@@ -129,6 +129,8 @@ competitions:
 
 news:
     shown:
+      - time: 2023-06-10 	&#128745;
+        note: Attended ICASSP 2023 (Rhodes, Greece)!
       - time: 2023-06-02 &#128227;
         note: Rank 1st place in DCASE Challenge 2023 Task 7 - Foley Sound Synthesis.
       - time: 2023-05-18 &#128227;
@@ -209,6 +211,9 @@ pubs:
       author:  "**Haohe Liu**, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang, Wenwu Wang, Yuxuan Wang, Mark D. Plumbley"
       journal: "arXiv preprint arXiv:2308.05734"
       year:    "2023"
+      images:  
+        - caption: "Architecture"
+          url: "images/audioldm2.png"
       media:
         - name: "Paper"
           url:  https://arxiv.org/pdf/2308.05734
@@ -220,7 +225,7 @@ pubs:
           url: https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music
         - name: "Discord Community"
           url: https://discord.gg/b64SEmdf
-          
+
     - title: "WavJourney: Compositional Audio Creation with Large Language Models"
       author:  "Xubo Liu, Zhongkai Zhu, **Haohe Liu**, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, Mark D Plumbley, Wenwu Wang"
       journal: "arXiv preprint arXiv:2307.14335"
@@ -271,9 +276,14 @@ pubs:
       author:  "Xinhao Mei, Chutong Meng, **Haohe Liu**, Qiuqiang Kong, Tom Ko, Chengqi Zhao, Mark D. Plumbley, Yuexian Zou, Wenwu Wang"
       journal: "arXiv preprint arXiv:2303.17395"
       year:    "2023" 
+      images:  
+        - caption: "How we built the WavCaps"
+          url: "images/wavcaps.png"
       media:
         - name: "Paper"
           url:  https://arxiv.org/abs/2303.17395
+        - name: "Dataset Download"
+          url: https://github.com/XinhaoMei/WavCaps
 
     - title: "👤 Leveraging Pre-trained AudioLDM for Sound Generation: A Benchmark Study"
       author:  "Yi Yuan\\*, **Haohe Liu**\\*, Jinhua Liang, Xubo Liu, Mark D. Plumbley, Wenwu Wang"
