@@ -227,7 +227,7 @@ pubs:
           url: https://discord.gg/b64SEmdf
 
     - title: "Separate Anything You Describe"
-      author:  "Xubo Liu, Qiuqiang Kong, Yan Zhao, **, Yi Yuan, Yuzhuo Liu, Rui Xia, Yuxuan Wang, Mark D Plumbley, Wenwu Wang"
+      author:  "Xubo Liu, Qiuqiang Kong, Yan Zhao, **Haohe Liu**, Yi Yuan, Yuzhuo Liu, Rui Xia, Yuxuan Wang, Mark D Plumbley, Wenwu Wang"
       journal: "arXiv preprint arXiv:2308.05037"
       year:    "2023"
       media:
