@@ -205,6 +205,42 @@ news:
         note: Accept a Ph.D. offer from the Ohio State University!
 
 pubs:
+    - title: "👤 AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining"
+      author:  "**Haohe Liu**, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang, Wenwu Wang, Yuxuan Wang, Mark D. Plumbley"
+      journal: "arXiv preprint arXiv:2308.05734"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2308.05734
+        - name: "Code"
+          url: https://github.com/haoheliu/audioldm2
+        - name: "Project Page"
+          url: https://audioldm.github.io/audioldm2/
+        - name: "HuggingFace Web Demo"
+          url: https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music
+        - name: "Discord Community"
+          url: https://discord.gg/b64SEmdf
+          
+    - title: "WavJourney: Compositional Audio Creation with Large Language Models"
+      author:  "Xubo Liu, Zhongkai Zhu, **Haohe Liu**, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, Mark D Plumbley, Wenwu Wang"
+      journal: "arXiv preprint arXiv:2307.14335"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2307.14335
+        - name: "Code"
+          url:  https://github.com/Audio-AGI/WavJourney
+        - name: "Project Page; Demo"
+          url:  https://audio-agi.github.io/WavJourney_demopage/
+
+    - title: "Text-Driven Foley Sound Generation With Latent Diffusion Model"
+      author:  "Yi Yuan, Haohe Liu, Xubo Liu, Xiyuan Kang, Peipei Wu, Mark D Plumbley, Wenwu Wang"
+      journal: "DCASE Workshop 2023"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2306.10359
+
     - title: "Universal Source Separation with Weakly Labelled Data"
       author:  "Qiuqiang Kong, Ke Chen, **Haohe Liu**, Xingjian Du, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Mark D. Plumbley"
       journal: "arXiv preprint arXiv:2305.07447"
@@ -214,6 +250,22 @@ pubs:
           url:  https://arxiv.org/abs/2305.07447
         - name: "code"
           url: https://github.com/bytedance/uss
+
+    - title: "E-PANNs: Sound Recognition Using Efficient Pre-trained Audio Neural Networks"
+      author:  "Arshdeep Singh, **Haohe Liu**, Mark D Plumbley"
+      journal: "arXiv preprint arXiv:2305.18665"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/abs/2305.18665
+
+    - title: "Learning to Detect an Animal Sound from Five Examples"
+      author:  "Inês Nolasco, Shubhr Singh, Veronica Morfi, Vincent Lostanlen, Ariana Strandburg-Peshkin, Ester Vidaña-Vila, Lisa Gill, Hanna Pamuła, Helen Whitehead, Ivan Kiskin, Frants H Jensen, Joe Morford, Michael G Emmerson, Elisabetta Versace, Emily Grout, **Haohe Liu**, Dan Stowell"
+      journal: "Ecological Informatics"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2305.13210
 
     - title: "WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research"
       author:  "Xinhao Mei, Chutong Meng, **Haohe Liu**, Qiuqiang Kong, Tom Ko, Chengqi Zhao, Mark D. Plumbley, Yuexian Zou, Wenwu Wang"
