@@ -129,6 +129,10 @@ competitions:
 
 news:
     shown:
+      - time: 2023-11-01 &#128100;
+        note: Remotely present my researh research at Meta.
+      - time: 2023-10-11 &#128100;
+        note: Presented recent research at Huawei Future Device Technology Summit, Helsinki, Finland.
       - time: 2023-09-20 	&#128745;
         note: Attended DCASE 2023 (Tampere, Finland)! Did a spotlight presentation.
       - time: 2023-09-15 &#127775;
@@ -240,7 +244,19 @@ pubs:
           url: https://audioldm.github.io/audiosr/
         - name: "Discord Community"
           url: https://discord.gg/PCws9edF
-
+          
+    - title: "👤 MusicLDM: Enhancing novelty in text-to-music generation using beat-synchronous mixup strategies"
+      author:  "Ke Chen*, Yusong Wu*, Haohe Liu*, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov"
+      journal: "arXiv preprint arXiv: 2308.01546"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url:  https://arxiv.org/pdf/2308.01546
+        - name: "Code"
+          url: https://github.com/RetroCirce/MusicLDM
+        - name: "Project Page"
+          url: https://musicldm.github.io/
+          
     - title: "Multimodal Fish Feeding Intensity Assessment in Aquaculture"
       author:  "Meng Cui, Xubo Liu, Haohe Liu, Zhuangzhuang Du, Tao Chen, Guoping Lian, Daoliang Li, Wenwu Wang"
       journal: "arXiv preprint arXiv: 2309.05058"
