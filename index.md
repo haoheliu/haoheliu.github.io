@@ -130,11 +130,11 @@ competitions:
 news:
     shown:
       - time: 2023-11-01 &#128100;
-        note: Remotely present my researh research at Meta.
+        note: Remotely present my research at Meta.
       - time: 2023-10-11 &#128100;
         note: Presented recent research at Huawei Future Device Technology Summit, Helsinki, Finland.
       - time: 2023-09-20 	&#128745;
-        note: Attended DCASE 2023 (Tampere, Finland)! Did a spotlight presentation.
+        note: Attended DCASE 2023 (Tampere, Finland)! Did a spotlight presentation. Receive Judges' award from the DCASE committee.
       - time: 2023-09-15 &#127775;
         note: Open-sourced AudioSR, a versatile audio super resolution system. The paper is under review.
       - time: 2023-08-10 &#127775;
@@ -687,7 +687,7 @@ Pronounciation of Haohe: <span style="font-family: &quot;Doulos SIL&quot;, sans-
 
 {% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
 
-I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. Currently, I'm working on text-to-general-audio generation, with more emphasis on better quality, controllability, immersivity, and text relevancy. I have served as a reviewer for various conferences and journals including INTERSPEECH, ICASSP, TNNLS, TCSVT, and ACM multimedia. 
+I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. Currently, I'm working on text-to-general-audio generation, with more emphasis on better quality, controllability, immersivity, and text relevancy. I have served as a reviewer for various conferences and journals including INTERSPEECH, ICASSP, TNNLS, TCSVT, TASLP, and ACM multimedia. 
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project with the goal of developing new methods for automatic labeling of sound environments and events in broadcast audio, assisting production staff to find and search through content, and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
