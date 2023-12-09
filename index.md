@@ -129,6 +129,8 @@ competitions:
 
 news:
     shown:
+      - time: 2023-04-25 &#128227;
+        note: [DiffRes](https://arxiv.org/abs/2210.01719) is accepted by AAAI 2024.
       - time: 2023-11-01 &#128100;
         note: Remotely present my research at Meta.
       - time: 2023-10-11 &#128100;
@@ -216,6 +218,19 @@ news:
         note: Accept a Ph.D. offer from the Ohio State University!
 
 pubs:
+    - title:   "👤 Learning the Spectrogram Temporal Resolution for Audio Classification"
+      author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
+      journal: "AAAI"
+      year:    "2024"
+      images:   
+        - caption: "DiffRes Architecture"
+          url: "/images/diffres.png"
+      media:
+        - name: "Paper"
+          url:  "https://arxiv.org/abs/2210.01719"
+        - name: "Code"
+          url:  https://github.com/haoheliu/diffres-python
+          
     - title: "Synth-AC: Enhancing Audio Captioning with Synthetic Supervision"
       author:  "Feiyang Xiao, Qiaoxi Zhu, Jian Guan, Xubo Liu, **Haohe Liu**, Kejia Zhang, Wenwu Wang"
       journal: "arXiv preprint arXiv: 2309.09705"
@@ -429,19 +444,6 @@ pubs:
       media:
         - name: "Paper"
           url:  https://arxiv.org/abs/2210.00943
-
-    - title:   "👤 Learning the Spectrogram Temporal Resolution for Audio Classification"
-      author:  "**Haohe Liu**, Xubo Liu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley"
-      journal: "arXiv preprint arXiv:2210.01719"
-      year:    "2022"
-      images:   
-        - caption: "DiffRes Architecture"
-          url: "/images/diffres.png"
-      media:
-        - name: "Paper"
-          url:  "https://arxiv.org/abs/2210.01719"
-        - name: "Code"
-          url:  https://github.com/haoheliu/diffres-python
 
     - title:   "ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech"
       author:  "Zehua Chen, Yihan Wu, Yichong Leng, Jiawei Chen, **Haohe Liu**, Xu Tan, Yang Cui, Ke Wang, Lei He, Sheng Zhao, Jiang Bian, Danilo Mandic"
@@ -694,21 +696,21 @@ I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Pro
 
 **I'm open to research and cooperations on related topics. Feel free to drop me an email.**
 
-<!-- <font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font> -->
+<!-- <font color='#318CE7'><b>- I am looking for a job opportunity in 3DVision, free to contact me if you think we are a good match.</b></font> -->
 
 ## Research highlights
-My research include tasks related with audio generative model, audio source separation, audio quality enhancement, audio recognition.
+My research includes tasks related to the audio generative model, audio source separation, audio quality enhancement, and audio recognition. Appeared in conferences such as ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
 Highlighted research performed as the first author:
 
 - State-of-the-art text-to-audio generation model: [AudioLDM] and [AudioLDM2].
-- State-of-the-art audio super resolution model on any audio type and any sampling-rate: [AudioSR].
+- State-of-the-art audio super-resolution model on any audio type and any sampling rate: [AudioSR].
 - First text-to-speech model that achieves on par CMOS with human recording: [NaturalSpeech].
-- Restore the quality of human speech signal regardless how the signal is degraded: [VoiceFixer].
+- Restore the quality of human speech signal regardless of how the signal is degraded: [VoiceFixer].
 - The music source separation system that achieves leading performance on Music Demixing Challenge 2021: [CWS-PResUNet].
 - State-of-the-art speech super-resolution model: [NVSR].
-- A module that make temporal-resolution of the spectrogram differentiable for efficient audio classificaiton: [DiffRes].
-- Few-shot bioacoustic detection: The 2rd ranking system in the [DCASE 2022 Challenge] Task 5.
+- A module that makes the temporal-resolution of the spectrogram differentiable for efficient audio classification: [DiffRes].
+- Few-shot bioacoustic detection: The 2nd ranking system in the [DCASE 2022 Challenge] Task 5.
 
 **Check out my [papers gallery](#papers){:target="_self"} for more information.**
 
