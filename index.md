@@ -129,7 +129,7 @@ competitions:
 
 news:
     shown:
-      - time: 2023-04-25 &#128227;
+      - time: 2023-12-09 &#128227;
         note: [DiffRes](https://arxiv.org/abs/2210.01719) is accepted by AAAI 2024.
       - time: 2023-11-01 &#128100;
         note: Remotely present my research at Meta.
