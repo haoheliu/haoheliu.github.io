@@ -130,7 +130,9 @@ competitions:
 news:
     shown:
       - time: 2023-12-09 &#128227;
-        note: [DiffRes](https://arxiv.org/abs/2210.01719) is accepted by AAAI 2024.
+        note: Accepted by AAAI 2024 - DiffRes (Learning the Spectrogram Temporal Resolution for Audio Classification).
+      - time: 2023-12-09 &#128227;
+        note: Accepted by NeurIPS  2023 Workshop on Machine Learning for Audio - Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio.
       - time: 2023-11-01 &#128100;
         note: Remotely present my research at Meta.
       - time: 2023-10-11 &#128100;
