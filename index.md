@@ -130,6 +130,8 @@ competitions:
 news:
     shown:
       - time: 2023-12-09 &#128227;
+        note: Four papers were accepted by ICASSP 2024 this year. Many thanks to the collaborators and the feedback from reviewers! 
+      - time: 2023-12-09 &#128227;
         note: Accepted by AAAI 2024 - DiffRes (Learning the Spectrogram Temporal Resolution for Audio Classification).
       - time: 2023-12-09 &#128227;
         note: Accepted by NeurIPS  2023 Workshop on Machine Learning for Audio - Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio.
