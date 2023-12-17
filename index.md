@@ -242,13 +242,13 @@ pubs:
 
     - title: "Retrieval-Augmented Text-to-Audio Generation"
       author:  "Yi Yuan, **Haohe Liu**, Xubo Liu, Qiushi Huang, Mark D Plumbley, Wenwu Wang"
-      journal: "arXiv preprint arXiv: 2309.08051"
-      year:    "2023"
+      journal: "International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+      year:    "2024"
 
     - title: "👤 AudioSR: Versatile Audio Super-resolution at Scale"
       author:  "**Haohe Liu**, Ke Chen, Qiao Tian, Wenwu Wang, Mark D Plumbley"
-      journal: "arXiv preprint arXiv: 2309.07314"
-      year:    "2023"
+      journal: "International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+      year:    "2024"
       images:  
         - caption: "Architecture"
           url: "images/audiosr_model_arch.png"
@@ -264,10 +264,10 @@ pubs:
         - name: "Discord Community"
           url: https://discord.gg/PCws9edF
           
-    - title: "👤 MusicLDM: Enhancing novelty in text-to-music generation using beat-synchronous mixup strategies"
+    - title: "👤 MusicLDM: Enhancing Novelty in Text-to-music Generation using Beat-synchronous Mixup Strategies"
       author:  "Ke Chen*, Yusong Wu*, Haohe Liu*, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov"
-      journal: "arXiv preprint arXiv: 2308.01546"
-      year:    "2023"
+      journal: "International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+      year:    "2024"
       media:
         - name: "Paper"
           url:  https://arxiv.org/pdf/2308.01546
