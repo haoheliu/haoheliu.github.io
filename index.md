@@ -265,7 +265,7 @@ pubs:
           url: https://discord.gg/PCws9edF
           
     - title: "👤 MusicLDM: Enhancing Novelty in Text-to-music Generation using Beat-synchronous Mixup Strategies"
-      author:  "Ke Chen\*, Yusong Wu\*, Haohe Liu\*, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov"
+      author:  "Ke Chen\\*, Yusong Wu\\*, **Haohe Liu**\\*, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov"
       journal: "International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
       year:    "2024"
       media:
