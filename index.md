@@ -22,17 +22,6 @@ education:
       comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology; Advisor: [Prof. Lei Xie]<br/>
                 -- GPA: 3.8/4.0 (Top 5%)"
 
-interns:
-    - title: "Microsoft Research Asia, Beijing, 10/2021 - 04/2022"
-      image: "/images/microsoft-logo.png"
-      comment: "-- Topic: Text-to-Speech Synthesis with human parity<br/>
-                -- Mentor: [Xu Tan]; Research output: [NaturalSpeech], etc. "
-                
-    - title: "ByteDance, Speech, Audio and Music Intelligence, Shanghai, 07/2020-10/2021"
-      image: "/images/bytedance-logo.png"
-      comment: "-- Topics: Speech Enhancement; Music Source Separation; General Speech Quality Enhancement; Speech Super-resolution<br/>
-                -- Mentor: [Qiuqiang Kong]; Research output: [VoiceFixer], [CWS-PResUNet], [NVSR], etc. All code are open-sourced. "
-
 competitions:
     - title: First place
       author:  "Yi Yuan, **Haohe Liu**, Xubo Liu, Xiyuan Kang, Mark D.Plumbley, Wenwu Wang"
@@ -202,8 +191,6 @@ news:
         note: Presented our winner model CWS-PResUNet to the audience on 2021 ISMIR MDX workshop.
       - time: 2021-11-12 &#128100;
         note: Gave a tutorial talk (<a href="https://docs.google.com/presentation/d/1AnlvPYCcuUZ2AW-4Q4BNdakqzgajoe9ltr4QUAr2oWw/edit">slides</a>) on music source separation with Alexandre Defossez and Woosung Choi at the 2021 ISMIR MDX satellite event!
-      - time: 2021-10-26 &#128187;
-        note: Joined the Microsoft Research Asia as a research intern.
       - time: 2021-09-30 &#128100;
         note: Gave a talk on VENTURE 将门创投 (In Chinese) about the voicefixer I developed recently! [<a href="https://www.techbeat.net/talk-info?id=586">link</a>]
       - time: 2021-08-19 &#128195;
@@ -214,8 +201,6 @@ news:
         note: A paper was accepted in ISMIR 2021.
       - time: 2021-06-02 &#128227;
         note: A paper was accepted in INTERSPEECH 2021.
-      - time: 2020-07-27 &#128187;
-        note: Joined the ByteDance AI lab as a research intern.
       - time: 2020-07-24 &#128227;
         note: A paper was accepted in INTERSPEECH 2020.
       - time: 2020-07-12 &#127891;
@@ -739,14 +724,6 @@ Highlighted research performed as the first author:
 **{{edu.title}}** <br/>
 {{ edu.comment }}
 {% endfor %}
-
-{% for intern in page.interns %}
-{% if intern.image %}
-{% include image_original.html url=intern.image caption="" width="70px" align=thumbnail %}
-{% endif %}
-**{{intern.title}}** <br/>
-{{ intern.comment }}
-{% endfor %}<br/>
 
 ## Competitions
 <!-- - Second place in DCASE 2022 Challenge Task 5:Few-shot Bioacoustic Event Detection. [code][details][leaderboard]
