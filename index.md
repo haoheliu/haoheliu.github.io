@@ -118,6 +118,8 @@ competitions:
 
 news:
     shown:
+      - time: 2023-01-13 &#128227;
+        note: The NaturalSpeech paper is accepted by the Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
       - time: 2023-12-13 &#128227;
         note: Four papers were accepted by ICASSP 2024 this year. Many thanks to the collaborators and the feedback from reviewers! 
       - time: 2023-12-12 
