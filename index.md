@@ -123,7 +123,7 @@ news:
       - time: 2023-12-13 &#128227;
         note: Four papers were accepted by ICASSP 2024 this year. Many thanks to the collaborators and the feedback from reviewers! 
       - time: 2023-12-12 
-        note: Short-listed by the Open Research Award of University of Surrey.
+        note: Short-listed by the Open Research Award of the University of Surrey (only four proposals were shortlisted!).
       - time: 2023-12-09 &#128227;
         note: Accepted by AAAI 2024 - DiffRes (Learning the Spectrogram Temporal Resolution for Audio Classification).
       - time: 2023-12-09 &#128227;
