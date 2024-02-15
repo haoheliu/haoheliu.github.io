@@ -118,6 +118,10 @@ competitions:
 
 news:
     shown:
+      - time: 2023-02-05 &#129495;
+        note: The IEEE ICME grand challenge we are organizing is officially launched - "Semi-supervised Acoustic Scene Classification under Domain Shift". 
+      - time: 2023-02-05 &#128227;
+        note: Accepted by IEEE Open Journal of Signal Processing - "Attention-Based End-to-End Differentiable Particle Filter for Audio Speaker Tracking".
       - time: 2023-01-13 &#128227;
         note: The NaturalSpeech paper is accepted by the Journal - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
       - time: 2023-12-13 &#128227;
@@ -148,11 +152,11 @@ news:
         note: Visit Department of Engineering, University of Cambridge, UK, for presentation and discussions.
       - time: 2023-04-25 &#128227;
         note: AudioLDM is accepted by ICML, International Conference on Machine Learning.
+    hidden:
       - time: 2023-04-14 &#128100;
         note: Remotely present my recent research to Chinese Academy of Science (中科院声学所)
       - time: 2023-04-10 &#128100;
         note: Remotely present my recent research to Gaoling School of Artificial Intelligence, Remin University of China (中国人民大学高瓴人工智能学院)
-    hidden:
       - time: 2023-03-08 &#128100;
         note: Gave a remote presentation about AudioLDM to Mila, University of montreal [<a href="https://www.youtube.com/watch?v=6qtL9_T8m3c&t=972s">link to recording</a>]
       - time: 2023-02-28 &#127775;
@@ -700,7 +704,8 @@ Highlighted research performed as the first author:
 - A module that makes the temporal-resolution of the spectrogram differentiable for efficient audio classification: [DiffRes].
 - Few-shot bioacoustic detection: The 2nd ranking system in the [DCASE 2022 Challenge] Task 5.
 
-**Check out my [papers gallery](#papers){:target="_self"} for more information.**
+<!-- **Check out my [papers gallery](#papers){:target="_self"} for more information.** -->
+Please refer to my Google Scholar Page for the full publication list: [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=g3O4lJMAAAAJ)
 
 ## Recent News
 <ul>
@@ -782,42 +787,6 @@ Highlighted research performed as the first author:
 <!-- <hr style="height:2px;border:none;color:#333;background-color:#333;" /> -->
 
 <!-- ## Updates from my twitter -->
-
-## Papers
-
-<p style="color: red; font-weight: bold;">Click the image to zoom in and zoom out</p>
-
-👤 *stands for first author*
-
-<hr>
-
-{% assign thumbnail="left" %}
-{% for pub in page.pubs %}
-
-{% if pub.images %}
-{% for img in pub.images %}
-  {% include image.html url=img.url caption=img.caption height="80px" width="120px" align=thumbnail %}
-{% endfor %}
-{% endif %}
-<!-- [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br /> -->
-**{{pub.title}}**<br />
-{{pub.author}}<br />
-*{{pub.journal}}* {% if pub.note %} *({{pub.note}})* {% endif %} {% if pub.year %} *{{pub.year}}* {% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %} {% for item in pub.media %} {% if item.url %} [[{{item.name}}]({{item.url}}){:target="_blank"}] {% else %} [{{item.name}}] {% endif %}
-{% endfor %}
-{% endif %}
-{% if pub.additional %}
-<div>
-    <div class="button">Additional Informations</div>
-    <ul class="list">
-      {% for add in pub.additional %}
-        <li>{{ add.content }}</li>
-      {% endfor %}
-    </ul>
-</div>
-{% endif %}
-<hr>
-{% endfor %}
 
 
 {% include twitter.html %}
