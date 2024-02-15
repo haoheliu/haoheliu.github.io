@@ -119,9 +119,11 @@ competitions:
 news:
     shown:
       - time: 2023-02-05 &#129495;
-        note: The IEEE ICME grand challenge we are organizing is officially launched - "Semi-supervised Acoustic Scene Classification under Domain Shift". 
+        note: The IEEE ICME grand challenge we are organizing is officially launched - "Semi-supervised Acoustic Scene Classification under Domain Shift" - [<a href="https://ascchallenge.xshengyun.com/">challenge website</a>], [<a href="https://github.com/JishengBai/ICME2024ASC">official baseline</a>], [<a href="https://arxiv.org/abs/2402.02694">paper</a>]    
       - time: 2023-02-05 &#128227;
         note: Accepted by IEEE Open Journal of Signal Processing - "Attention-Based End-to-End Differentiable Particle Filter for Audio Speaker Tracking".
+      - time: 2023-01-31 &#128100;
+        note: Present at Surrey Open Research Culture Event 2024 [<a href="">link to YouTube (coming soon)</a>] 
       - time: 2023-01-13 &#128227;
         note: The NaturalSpeech paper is accepted by the Journal - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
       - time: 2023-12-13 &#128227;
