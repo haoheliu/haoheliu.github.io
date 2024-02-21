@@ -123,7 +123,7 @@ news:
       - time: 2023-02-05 &#128227;
         note: Accepted by IEEE Open Journal of Signal Processing - "Attention-Based End-to-End Differentiable Particle Filter for Audio Speaker Tracking".
       - time: 2023-01-31 &#128100;
-        note: Present at Surrey Open Research Culture Event 2024 [<a href="">link to YouTube (coming soon)</a>] 
+        note: Present at Surrey Open Research Culture Event 2024 [<a href="https://www.youtube.com/watch?v=xmZJl8qOFWw">link to YouTube</a>] 
       - time: 2023-01-13 &#128227;
         note: The NaturalSpeech paper is accepted by the Journal - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
       - time: 2023-12-13 &#128227;
