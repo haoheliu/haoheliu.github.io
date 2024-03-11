@@ -91,7 +91,7 @@ competitions:
 news:
     shown:
       - time: 2023-03-11 &#128227; 
-        note: Accepted by ICLR 2024 Workshop LLMAgents - "WavCraft: Audio Editing and Generation with Large Language Models".
+        note: Accepted by ICLR 2024 Workshop LLMAgents - WavCraft - "Audio Editing and Generation with Large Language Models".
       - time: 2023-03-06 &#128100;
         note: Invited talk at UK Acoustic Network - "Recent Progress and Applications of Audio Artificial Intelligence Technologies".
       - time: 2023-02-05 &#129495;
