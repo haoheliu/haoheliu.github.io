@@ -119,9 +119,9 @@ competitions:
 news:
     shown:
       - time: 2023-03-11 &#128227; 
-        note: Accepted by ICLR 2024 Workshop LLMAgents: "WavCraft: Audio Editing and Generation with Large Language Models".
+        note: Accepted by ICLR 2024 Workshop LLMAgents - "WavCraft: Audio Editing and Generation with Large Language Models".
       - time: 2023-03-06 &#128100;
-        note: Invited talk at UK Acoustic Network: "Recent Progress and Applications of Audio Artificial Intelligence Technologies".
+        note: Invited talk at UK Acoustic Network - "Recent Progress and Applications of Audio Artificial Intelligence Technologies".
       - time: 2023-02-05 &#129495;
         note: The IEEE ICME grand challenge we are organizing is officially launched - "Semi-supervised Acoustic Scene Classification under Domain Shift" - [<a href="https://ascchallenge.xshengyun.com/">challenge website</a>], [<a href="https://github.com/JishengBai/ICME2024ASC">official baseline</a>], [<a href="https://arxiv.org/abs/2402.02694">paper</a>]    
       - time: 2023-02-05 &#128227;
