@@ -665,10 +665,10 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. I have served as a reviewer for various conferences and journals including INTERSPEECH, ICASSP, TNNLS, TCSVT, TASLP, and ACM multimedia. 
 
+<b>I will attend ICASSP 2024, April 13 to April 20 in Korea, Seoul. Looking forward to meeting & chatting with you there!</b>
+
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project with the goal of developing new methods for automatic labeling of sound environments and events in broadcast audio, assisting production staff to find and search through content, and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
-
-<!-- <font color='#318CE7'><b>- I am looking for a job opportunity in 3DVision, free to contact me if you think we are a good match.</b></font> -->
 
 ## Research highlights
 My research includes tasks related to the audio generative model, audio source separation, audio quality enhancement, and audio recognition. Appeared in conferences such as ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
