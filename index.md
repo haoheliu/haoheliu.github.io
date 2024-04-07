@@ -90,7 +90,7 @@ competitions:
 
 news:
     shown:
-      - time: 2023-01-31 &#128100;
+      - time: 2023-03-31 &#128100;
         note: Organizing a special session "Generative AI for Media Generation" at 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP) [<a href="https://2024.ieeemlsp.org/498-2">link to IEEE MLSP 2024</a>] 
       - time: 2023-03-11 &#128227; 
         note: Accepted by ICLR 2024 Workshop LLMAgents - WavCraft - "Audio Editing and Generation with Large Language Models".
