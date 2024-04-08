@@ -701,7 +701,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 </ul>
 <button onclick="toggleText()" id="textButton" class="showbutton"> Show More </button>
 
-## Education and Intern Experience
+## Education Experience
 
 {% assign thumbnail="left" %}
 {% for edu in page.education %}
