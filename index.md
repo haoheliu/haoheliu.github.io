@@ -663,7 +663,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
 
-I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. I have served as a reviewer for various conferences and journals including INTERSPEECH, ICASSP, TNNLS, TCSVT, TASLP, and ACM multimedia. 
+I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. 
 
 <b>I will attend ICASSP 2024, April 13 to April 20 in Korea, Seoul. Looking forward to meeting & chatting with you there!</b>
 
