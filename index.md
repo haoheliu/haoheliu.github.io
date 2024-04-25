@@ -91,7 +91,7 @@ competitions:
 news:
     shown:
       - time: 2023-01-13 &#128227;
-        note: Accepted by the Journal TASLP - IEEE Transactions on Audio Speech and Language Processing: AudioLDM 2
+        note: Accepted by the Journal TASLP - IEEE Transactions on Audio Speech and Language Processing - AudioLDM 2
       - time: 2023-04-12 	&#128745;
         note: Attended ICASSP 2024 (Seoul, Korea)! Did an oral presentation there about the paper AudioSR.
       - time: 2023-03-31 &#128100;
