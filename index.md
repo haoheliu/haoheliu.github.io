@@ -90,6 +90,10 @@ competitions:
 
 news:
     shown:
+      - time: 2023-01-13 &#128227;
+        note: Accepted by the Journal TASLP - IEEE Transactions on Audio Speech and Language Processing: AudioLDM 2
+      - time: 2023-04-12 	&#128745;
+        note: Attended ICASSP 2024 (Seoul, Korea)! Did an oral presentation there about the paper AudioSR.
       - time: 2023-03-31 &#128100;
         note: Organizing a special session "Generative AI for Media Generation" at 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP) [<a href="https://2024.ieeemlsp.org/498-2">link to IEEE MLSP 2024</a>] 
       - time: 2023-03-11 &#128227; 
@@ -665,8 +669,6 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. 
 
-<b>I will attend ICASSP 2024, April 13 to April 20 in Korea, Seoul. Looking forward to meeting & chatting with you there!</b>
-
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project with the goal of developing new methods for automatic labeling of sound environments and events in broadcast audio, assisting production staff to find and search through content, and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
 
@@ -675,12 +677,12 @@ My research includes tasks related to the audio generative model, audio source s
 
 Highlighted research performed as the first author:
 
-- State-of-the-art text-to-audio generation model: [AudioLDM] and [AudioLDM2].
-- State-of-the-art audio super-resolution model on any audio type and any sampling rate: [AudioSR].
+- Text-to-audio generation model: [AudioLDM] and [AudioLDM2].
+- Audio super-resolution model on any audio type and any sampling rate: [AudioSR].
 - First text-to-speech model that achieves on par CMOS with human recording: [NaturalSpeech].
 - Restore the quality of human speech signal regardless of how the signal is degraded: [VoiceFixer].
 - The music source separation system that achieves leading performance on Music Demixing Challenge 2021: [CWS-PResUNet].
-- State-of-the-art speech super-resolution model: [NVSR].
+- Speech super-resolution model: [NVSR].
 - A module that makes the temporal-resolution of the spectrogram differentiable for efficient audio classification: [DiffRes].
 - Few-shot bioacoustic detection: The 2nd ranking system in the [DCASE 2022 Challenge] Task 5.
 
