@@ -673,7 +673,7 @@ I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Pro
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
 
 ## Research highlights
-My research includes tasks related to the audio generative model, audio source separation, audio quality enhancement, and audio recognition. Appeared in conferences such as ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
+My research includes tasks related to the audio generative model, audio source separation, audio quality enhancement, and audio recognition. Appeared in journals and conferences such as TPAMI, TASLP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
 Highlighted research performed as the first author:
 
