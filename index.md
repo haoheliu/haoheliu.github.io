@@ -678,6 +678,7 @@ My research includes tasks related to the audio generative model, audio source s
 Highlighted research performed as the first author:
 
 - Text-to-audio generation model: [AudioLDM] and [AudioLDM2].
+- Ultra-low bitrate audio codec: [Semanticodec]
 - Audio super-resolution model on any audio type and any sampling rate: [AudioSR].
 - First text-to-speech model that achieves on par CMOS with human recording: [NaturalSpeech].
 - Restore the quality of human speech signal regardless of how the signal is degraded: [VoiceFixer].
@@ -788,6 +789,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 [Prof. Lei Xie]: https://scholar.google.com/citations?user=Qddov9wAAAAJ&hl=en
 [NaturalSpeech]: https://speechresearch.github.io/naturalspeech/
 [AudioLDM]:https://audioldm.github.io/
+[Semanticodec]: https://haoheliu.github.io/SemantiCodec/
 [AudioLDM2]: https://audioldm.github.io/audioldm2
 [AudioSR]: https://audioldm.github.io/audiosr
 [VoiceFixer]:https://github.com/haoheliu/voicefixer
