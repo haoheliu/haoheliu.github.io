@@ -90,23 +90,25 @@ competitions:
 
 news:
     shown:
-      - time: 2023-01-13 &#128227;
+      - time: 2024-05-10 &#128100;
+        note: Guest Lecture at EEEM068 Applied Machine Learning, University of Surrey, Topic - Introduction to Audio Artificial Intelligence.
+      - time: 2024-01-13 &#128227;
         note: Accepted by the Journal TASLP - IEEE Transactions on Audio Speech and Language Processing - AudioLDM 2
-      - time: 2023-04-12 	&#128745;
+      - time: 2024-04-12 	&#128745;
         note: Attended ICASSP 2024 (Seoul, Korea)! Did an oral presentation there about the paper AudioSR.
-      - time: 2023-03-31 &#128100;
+      - time: 2024-03-31 &#128100;
         note: Organizing a special session "Generative AI for Media Generation" at 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP) [<a href="https://2024.ieeemlsp.org/498-2">link to IEEE MLSP 2024</a>] 
-      - time: 2023-03-11 &#128227; 
+      - time: 2024-03-11 &#128227; 
         note: Accepted by ICLR 2024 Workshop LLMAgents - WavCraft - "Audio Editing and Generation with Large Language Models".
-      - time: 2023-03-06 &#128100;
+      - time: 2024-03-06 &#128100;
         note: Invited talk at UK Acoustic Network - "Recent Progress and Applications of Audio Artificial Intelligence Technologies".
-      - time: 2023-02-05 &#129495;
+      - time: 2024-02-05 &#129495;
         note: The IEEE ICME grand challenge we are organizing is officially launched - "Semi-supervised Acoustic Scene Classification under Domain Shift" - [<a href="https://ascchallenge.xshengyun.com/">challenge website</a>], [<a href="https://github.com/JishengBai/ICME2024ASC">official baseline</a>], [<a href="https://arxiv.org/abs/2402.02694">paper</a>]    
-      - time: 2023-02-05 &#128227;
+      - time: 2024-02-05 &#128227;
         note: Accepted by IEEE Open Journal of Signal Processing - "Attention-Based End-to-End Differentiable Particle Filter for Audio Speaker Tracking".
-      - time: 2023-01-31 &#128100;
+      - time: 2024-01-31 &#128100;
         note: Present at Surrey Open Research Culture Event 2024 [<a href="https://www.youtube.com/watch?v=xmZJl8qOFWw">link to YouTube</a>] 
-      - time: 2023-01-13 &#128227;
+      - time: 2024-01-13 &#128227;
         note: The NaturalSpeech paper is accepted by the Journal - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
       - time: 2023-12-13 &#128227;
         note: Four papers were accepted by ICASSP 2024 this year. Many thanks to the collaborators and the feedback from reviewers! 
@@ -747,25 +749,12 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 - **First-class Scholarship**, Northwestern Polytechnical University (top 14.7%), 2016 to 2019, **three consecutive years**
 - **Gratitude to Scientists of Modern Times National Scholarship** (top 0.5%), 2018
 
-### Selected Awards
-- **First Prize** in the 2018 China’s National Robot Competition 
-- **Honorable Mention** in the 2018 Mathematical Contest in Modeling
-- **Second Prize** in the 2018 National Marine Vehicle Competition
-- **First Prize** in 2018 Shaanxi Province Mathematical Contest in Modeling 
-- **First Prize** in the 8th NWPU Intelligent Vehicle Competition 
-- **First Prize** in 2018 NWPU C Language Programming competition 
-- **First Prize** in the 2017 NWPU Mathematical Contest in Modeling 
+## Teaching
 
-### Qualifications
-- China Conservatory of Music - Piano Program - **Level Ten** (highest)
-- **TOEFL**: 108 (R: 29, L:27, S: 25, W:27; 2019/02)
-- **GRE**: 322 (V:152, Q:170, W:3.5)
-- **DET**: 130 (Literacy: 135, Comprehension: 135, Conversation:110, Production: 110)
-
-## Teaching Assistance
-- EEE3008 Fundamentals of DSP, University of Surrey, 2022/23 Semester 1
-- EEE1033 Computer and Digital Logic, University of Surrey, 2022/23 Semester 1
-- EEEM068 Applied Machine Learning, University of Surrey, 2022/23 Semester 2
+- Guest Lecturer, EEEM068 Applied Machine Learning, University of Surrey, 2024
+- Demonstrator, EEE3008 Fundamentals of DSP, University of Surrey, 2022/23 Semester 1
+- Demonstrator, EEE1033 Computer and Digital Logic, University of Surrey, 2022/23 Semester 1
+- Demonstrator, EEEM068 Applied Machine Learning, University of Surrey, 2022/23 Semester 2
 
 <!-- <hr style="height:2px;border:none;color:#333;background-color:#333;" /> -->
 
