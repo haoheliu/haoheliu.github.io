@@ -671,13 +671,13 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
 
-I’m Haohe Liu, a Ph.D. student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. Most of my studies are open-sourced. 
+I’m Haohe Liu, a PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
 
-<!-- In the CVSSP, I’m working as part of the [AI for Sound] project with the goal of developing new methods for automatic labeling of sound environments and events in broadcast audio, assisting production staff to find and search through content, and helping the general public access archive content.  -->
+<!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
 
 ## Research highlights
-My research includes tasks related to the audio generative model, audio source separation, audio quality enhancement, and audio recognition. Appeared in journals and conferences such as TPAMI, TASLP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
+My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
 Highlighted research performed as the first author:
 
@@ -762,6 +762,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 
 <!-- ## Updates from my twitter -->
 
+{% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
 
 {% include twitter.html %}
 
@@ -777,6 +778,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 [BBC R&D]: https://www.bbc.co.uk/rd
 [AI for Sound]: https://ai4s.surrey.ac.uk/
 [BBC Sound Effect Library]: https://sound-effects.bbcrewind.co.uk/
+[AI for Sound]: https://ai4s.surrey.ac.uk/team.html
 [Prof. Lei Xie]: https://scholar.google.com/citations?user=Qddov9wAAAAJ&hl=en
 [NaturalSpeech]: https://speechresearch.github.io/naturalspeech/
 [AudioLDM]:https://audioldm.github.io/
