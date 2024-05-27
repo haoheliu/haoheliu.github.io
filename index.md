@@ -94,7 +94,7 @@ news:
         note: Talk at MIT CSAIL Spoken Language Systems group. Topic - Learning Audio Pattern with Latent Diffusion Model - [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/Haohe_Liu_2024_05_16.pdf">Slides</a>].
       - time: 2024-05-10 &#128100;
         note: Guest Lecture at EEEM068 Applied Machine Learning, University of Surrey, Topic - Introduction to Audio Artificial Intelligence [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/AML%20Guest%20Lecture.pdf">Slides</a>].
-      - time: 2024-01-13 &#128227;
+      - time: 2024-04-25 &#128227;
         note: Accepted by the Journal TASLP - IEEE Transactions on Audio Speech and Language Processing - AudioLDM 2
       - time: 2024-04-12 	&#128745;
         note: Attended ICASSP 2024 (Seoul, Korea)! Did an oral presentation there about the paper AudioSR.
