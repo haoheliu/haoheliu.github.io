@@ -762,7 +762,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 
 <!-- ## Updates from my twitter -->
 
-{% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
+{% include image.html url="images/piano.jpg" caption="" width="250px" align="center" %}
 
 {% include twitter.html %}
 
