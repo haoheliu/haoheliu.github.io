@@ -673,6 +673,8 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
 
+**I am open to job opportunities in 2025. If you believe we would be a good fit, please feel free to reach out.**
+
 **🍻 I am currently living in Paris and doing an internship at Meta. Feel free to contact me if you are also in Paris and would like to meet!**
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
