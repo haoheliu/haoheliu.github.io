@@ -90,6 +90,8 @@ competitions:
 
 news:
     shown:
+      - time: 2024-06-21 &#128227; 
+        note: One paper got accepted by ACM MM 2024 - FlashSpeech - Efficient Zero-Shot Speech Synthesis
       - time: 2024-05-16 &#128100;
         note: Talk at MIT CSAIL Spoken Language Systems group. Topic - Learning Audio Pattern with Latent Diffusion Model - [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/Haohe_Liu_2024_05_16.pdf">Slides</a>].
       - time: 2024-05-10 &#128100;
