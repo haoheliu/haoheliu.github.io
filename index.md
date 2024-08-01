@@ -673,7 +673,9 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
+I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with $50+$ research publications and over $1350$ citations. My open-source projects/checkpoints on GitHub have received over $7,900$ stars and have been downloaded more than $150,000$ times. 
+
+My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
 
 **I am open to job opportunities in 2025. If you believe we would be a good fit, please feel free to reach out.**
 
