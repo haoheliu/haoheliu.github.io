@@ -122,6 +122,7 @@ news:
         note: Accepted by AAAI 2024 - DiffRes (Learning the Spectrogram Temporal Resolution for Audio Classification).
       - time: 2023-12-09 &#128227;
         note: Accepted by NeurIPS  2023 Workshop on Machine Learning for Audio - Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio.
+    hidden:
       - time: 2023-11-01 &#128100;
         note: Remotely present my research at Meta.
       - time: 2023-10-11 &#128100;
@@ -142,7 +143,6 @@ news:
         note: Visit Department of Engineering, University of Cambridge, UK, for presentation and discussions.
       - time: 2023-04-25 &#128227;
         note: AudioLDM is accepted by ICML, International Conference on Machine Learning.
-    hidden:
       - time: 2023-04-14 &#128100;
         note: Remotely present my recent research to Chinese Academy of Science (中科院声学所)
       - time: 2023-04-10 &#128100;
