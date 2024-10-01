@@ -671,7 +671,7 @@ pubs:
 
 Email: *haohe.liu AT surrey dot ac dot uk*
 
-{% include image.html url="images/longmen.jpg" caption="Shot at Longmen Grottoes in China" width="190px" align="right" %}
+{% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
 
 I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1400 citations. My open-source projects/checkpoints on GitHub have received over 8100 stars and have been downloaded more than 150000 times. 
 
