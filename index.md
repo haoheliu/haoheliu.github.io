@@ -92,6 +92,8 @@ news:
     shown:
       - time: 2024-06-21 &#128227; 
         note: One paper got accepted by ACM MM 2024 - FlashSpeech - Efficient Zero-Shot Speech Synthesis
+      - time: 2024-06-19 &#128100;
+        note: Talk at Spotify - Introduced SemantiCodec - [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/2024-06-19-semanticodec.pdf">Slides</a>].
       - time: 2024-05-16 &#128100;
         note: Talk at MIT CSAIL Spoken Language Systems group. Topic - Learning Audio Pattern with Latent Diffusion Model - [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/Haohe_Liu_2024_05_16.pdf">Slides</a>].
       - time: 2024-05-10 &#128100;
@@ -673,7 +675,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1400 citations. My open-source projects/checkpoints on GitHub have received over 8100 stars and have been downloaded more than 150000 times. 
+I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1600 citations. My open-source projects/checkpoints on GitHub have received over 8300 stars and have been downloaded more than 150000 times. 
 
 My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
 
