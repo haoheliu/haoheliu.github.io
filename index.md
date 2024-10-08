@@ -753,7 +753,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 ## Honors & Awards
 
 ### Scholarships
-
+- **Judges' Award** - DCASE 2023, Tampere, Finland
 - **Doctoral College Scholarship**, tuition waiver with stipend, University of Surrey
 - **Outstanding Graduate Students**, Northwestern Polytechnical University, 2020-2021
 - **WuYaJun third class scholarship**, 2019
