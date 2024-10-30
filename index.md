@@ -91,7 +91,7 @@ competitions:
 news:
     shown:
       - time: 2024-10-30 &#128227; 
-        note: [<a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a>] is accepted by the IEEE Journal of Selected Topics in Signal Processing
+        note: The <a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a> is accepted by the IEEE Journal of Selected Topics in Signal Processing
       - time: 2024-10-17 &#128100;
         note: Visited Telecom Paris and gave a talk - Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder
       - time: 2024-06-21 &#128227; 
