@@ -90,6 +90,10 @@ competitions:
 
 news:
     shown:
+      - time: 2024-10-30 &#128227; 
+        note: [<a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a>] is accepted by the IEEE Journal of Selected Topics in Signal Processing!
+      - time: 2024-10-17 &#128100;
+        note: Visited Telecom Paris and gave a talk - Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder
       - time: 2024-06-21 &#128227; 
         note: One paper got accepted by ACM MM 2024 - FlashSpeech - Efficient Zero-Shot Speech Synthesis
       - time: 2024-06-19 &#128100;
@@ -675,13 +679,9 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1600 citations. My open-source projects/checkpoints on GitHub have received over 8300 stars and have been downloaded more than 150000 times. 
+I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1800 citations. My open-source projects/checkpoints on GitHub have received over 8300 stars and have been downloaded more than 150000 times. 
 
 My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
-
-**I’m open to full-time academic or industry roles in 2025. If you believe we are a good fit, please reach out and let’s make some magic!**
-
-**🍻 I am currently living in Paris and doing an internship at Meta. Feel free to drop me an email if you are also in Paris and would like to meet!**
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
