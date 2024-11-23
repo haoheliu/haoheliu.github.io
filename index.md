@@ -90,6 +90,12 @@ competitions:
 
 news:
     shown:
+      - time: 2024-11-23 &#127942;
+        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE!
+      - time: 2024-11-14 &#128100;
+        note: Visited NWPU (my undergrad university) and gave a talk.
+      - time: 2024-11-09 &#128100;
+        note: Presentation at the Shanghai Jiao Tong University X-LANCE lab.
       - time: 2024-10-30 &#128227; 
         note: The <a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a> is accepted by the IEEE Journal of Selected Topics in Signal Processing
       - time: 2024-10-17 &#128100;
