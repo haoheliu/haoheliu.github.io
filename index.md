@@ -91,17 +91,17 @@ competitions:
 news:
     shown:
       - time: 2024-11-23 &#127942;
-        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE!
+        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE! [<a href="https://www.linkedin.com/pulse/cvssp-researcher-awarded-prestigious-award-cvssp-8y4we/?trackingId=Qefky09POxWobuD4uEhMqA%3D%3D">[Linkedin Post]</a>].
       - time: 2024-11-14 &#128100;
         note: Visited NWPU (my undergrad university) and gave a talk.
       - time: 2024-11-09 &#128100;
-        note: Presentation at the Shanghai Jiao Tong University X-LANCE lab.
+        note: Presentation at the Shanghai Jiao Tong University X-LANCE lab: [<a href="https://www.bilibili.com/video/BV1JjmBYYEoW">Recording</a>].
       - time: 2024-10-30 &#128227; 
-        note: The <a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a> is accepted by the IEEE Journal of Selected Topics in Signal Processing
+        note: The <a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a> is accepted by the IEEE Journal of Selected Topics in Signal Processing.
       - time: 2024-10-17 &#128100;
-        note: Visited Telecom Paris and gave a talk - Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder
+        note: Visited Telecom Paris and gave a talk - Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder.
       - time: 2024-06-21 &#128227; 
-        note: One paper got accepted by ACM MM 2024 - FlashSpeech - Efficient Zero-Shot Speech Synthesis
+        note: One paper got accepted by ACM MM 2024 - FlashSpeech - Efficient Zero-Shot Speech Synthesis.
       - time: 2024-06-19 &#128100;
         note: Talk at Spotify - Introduced SemantiCodec - [<a href="https://github.com/haoheliu/haoheliu.github.io/blob/main/pdf/2024-06-19-semanticodec.pdf">Slides</a>].
       - time: 2024-05-16 &#128100;
