@@ -685,7 +685,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1800 citations. My open-source projects/checkpoints on GitHub have received over 8300 stars and have been downloaded more than 150000 times. 
+I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, MusicLDM, AudioSR, etc., with 50+ research publications and over 1900 citations. My open-source projects/checkpoints on GitHub have received over 8600 stars and have been downloaded more than 200000 times. 
 
 My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). Most of my studies are open-sourced. 
 
@@ -759,6 +759,7 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 ## Honors & Awards
 
 ### Scholarships
+- **2024 Vice-Chancellor’s Award for Teaching and Research Excellence - School Post Graduate Researcher of the Year** - University of Surrey
 - **Judges' Award** - DCASE 2023, Tampere, Finland
 - **Doctoral College Scholarship**, tuition waiver with stipend, University of Surrey
 - **Outstanding Graduate Students**, Northwestern Polytechnical University, 2020-2021
