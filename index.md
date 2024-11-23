@@ -91,7 +91,7 @@ competitions:
 news:
     shown:
       - time: 2024-11-23 &#127942;
-        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE! [<a href="https://www.linkedin.com/pulse/cvssp-researcher-awarded-prestigious-award-cvssp-8y4we">[Linkedin Post]</a>].
+        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE! [<a href="https://www.linkedin.com/pulse/cvssp-researcher-awarded-prestigious-award-cvssp-8y4we">Linkedin Post</a>].
       - time: 2024-11-14 &#128100;
         note: Visited NWPU (my undergrad university) and gave a talk.
       - time: 2024-11-09 &#128100;
