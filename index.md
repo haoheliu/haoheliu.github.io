@@ -93,7 +93,7 @@ news:
       - time: 2024-12-06 &#128227; 
         note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing - Separate Anything You Describe - Congrat Xubo Liu et al.!
       - time: 2024-12-04 &#128227; 
-        note: Accepted by Reviews in Aquaculture - Fish Tracking, Counting, and Behaviour Analysis in Digital Aquaculture: A Comprehensive Survey - Congrat Meng Cui et al.!
+        note: Accepted by Reviews in Aquaculture - Fish Tracking, Counting, and Behaviour Analysis in Digital Aquaculture - A Comprehensive Survey - Congrat Meng Cui et al.!
       - time: 2024-11-25 &#128227; 
         note: Accepted by IEEE Transactions on Automation Science and Engineering - Multimodal Fish Feeding Intensity Assessment in Aquaculture - Congrat Meng Cui et al.!
       - time: 2024-11-23 &#127942;
