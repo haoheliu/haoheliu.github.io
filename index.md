@@ -90,6 +90,8 @@ competitions:
 
 news:
     shown:
+      - time: 2024-12-14 &#128100;
+        note: Oral Presentation at the NeurIPS 2024 Audio Imagination Workshop - Topic - AudioSetCaps.
       - time: 2024-12-06 &#128227; 
         note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing - Separate Anything You Describe - Congrat Xubo Liu et al.!
       - time: 2024-12-04 &#128227; 
