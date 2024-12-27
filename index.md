@@ -701,7 +701,7 @@ My research includes topics related to speech, music, and general audio. I am fo
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
 
 ## Research highlights
-My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
+My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, JSTSP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
 Highlighted research performed as the first author:
 
