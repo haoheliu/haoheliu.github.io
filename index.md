@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Haohe Liu 刘濠赫 (Leo) 
+title: Haohe Liu 刘濠赫
 permalink: /
 
     # - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 01/2025"
