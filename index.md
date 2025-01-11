@@ -90,6 +90,8 @@ competitions:
 
 news:
     shown:
+      - time: 2025-01-01 &#128227; 
+        note: FlowSep is accepted by the IEEE International Conference on Acoustics Speech and Signal Processing!
       - time: 2024-12-14 &#128100;
         note: Oral Presentation at the NeurIPS 2024 Audio Imagination Workshop - Topic - AudioSetCaps.
       - time: 2024-12-06 &#128227; 
@@ -693,7 +695,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and around 2000 citations. My open-source projects/checkpoints on GitHub have received over 8700 stars and have been downloaded more than 200000 times. 
+I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times. 
 
 My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I have also been privileged to receive several accolades, such as the *University of Surrey CSEE Postgraduate Researcher of the Year Award* and the *Judges' Award* in international challenges like DCASE. Most of my research studies are open-sourced.
 
