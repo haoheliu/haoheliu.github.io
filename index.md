@@ -2,12 +2,7 @@
 layout: page
 title: Haohe Liu 刘濠赫
 permalink: /
-
-    # - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 01/2025"
-    #   image: "/images/surrey_logo_2.png"
-    #   comment: "-- PhD in Vision, Speech and Signal Processing | Main advisor: [Prof. Mark D. Plumbley]<br/>
-    #             -- With a studentship from the CVSSP"   
-                
+   
 education:
     - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 06/2025"
       image: "/images/surrey_logo.png"
@@ -22,6 +17,19 @@ education:
       image: "/images/nwpu.png"
       comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology; Advisor: [Prof. Lei Xie]<br/>
                 -- GPA: 3.8/4.0 (Top 5%)"
+
+jobs: 
+    - title: "Research Scientist Intern, Meta, Paris, 06/2024 - 10/2024"
+      image: "/images/meta-logo.png"
+      # comment: "-- PhD in Vision, Speech and Signal Processing; Main advisor: [Prof. Mark D. Plumbley]<br/>
+      #           -- With a studentship from the CVSSP and the EPSRC Grant EP/T019751/1 AI for Sound<br/>
+      #           -- 2024 Postgraduate Researcher of the Year Award - University of Surrey, CSEE"
+    - title: "Consultant, Riffusion, Remote, 10/2023 - 05/2024"
+      image: "/images/riffusion-logo.jpg"
+    - title: "Research Intern, Microsoft, Beijing, 10/2021 - 04/2022"
+      image: "/images/microsoft-logo.png"
+    - title: "Research Intern, ByteDance, Shanghai, 07/2020 - 09/2021"
+      image: "/images/bytedance-logo.png"  
 
 competitions:
     - title: First place
@@ -696,9 +704,9 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris (August 2024)" width="190px" align="right" %}
 
-I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times. 
+I’m a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering.
 
-My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I have also been privileged to receive several awards, such as the *2024 Postgraduate Researcher of the Year Award* and the *Judges' Award* in international challenges like DCASE. I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering. Most of my research studies are open-sourced. 
+I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
@@ -744,6 +752,17 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 {% endif %}
 **{{edu.title}}** <br/>
 {{ edu.comment }}
+{% endfor %}
+
+## Work/Internship Experience
+
+{% assign thumbnail="left" %}
+{% for job in page.jobs %}
+{% if job.image %}
+{% include image_original.html url=job.image caption="" width="20px" align=thumbnail %}
+{% endif %}
+**{{job.title}}** <br/>
+{{ job.comment }}
 {% endfor %}
 
 ## Community Services
