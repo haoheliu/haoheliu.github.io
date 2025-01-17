@@ -766,13 +766,10 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 ### Reviewer Services
 I serve as a regular reviewer for the following journals:
 
-- Conference on Neural Information Processing Systems (NeurIPS) 2024 Audio Imagination Workshop
-- IEEE International Conference on Acoustics, Speech, and Signal Processing 2024
-- IEEE International Conference on Multimedia and Expo 2024
-- IEEE Transactions on Circuits and Systems for Video Technology
-- IEEE Transactions on Multimedia
-- IEEE Transactions on Neural Networks and Learning Systems
 - IEEE/ACM Transactions on Audio Speech and Language Processing
+- IEEE Transactions on Multimedia
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Neural Networks and Learning Systems
 - International Journal on Information Fusion
 - Computer Speech & Language
 
@@ -781,6 +778,7 @@ I also serve as a reviewer for the following conferences:
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024, 2025 
 - INTERSPEECH 2023, 2024, 2025
 - International Conference on Learning Representations (ICLR) 2025
+- Conference on Neural Information Processing Systems (NeurIPS) 2024
 - ACM MultiMedia 2023, 2024
 - IEEE International Joint Conference on Neural Networks (IJCNN) 2025
 - IEEE International Conference on Multimedia & Expo (ICME) 2024, 2025
