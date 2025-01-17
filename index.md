@@ -9,10 +9,11 @@ permalink: /
     #             -- With a studentship from the CVSSP"   
                 
 education:
-    - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 01/2025"
+    - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 06/2025"
       image: "/images/surrey_logo.png"
       comment: "-- PhD in Vision, Speech and Signal Processing; Main advisor: [Prof. Mark D. Plumbley]<br/>
-                -- With a studentship from the CVSSP and the EPSRC Grant EP/T019751/1 AI for Sound"
+                -- With a studentship from the CVSSP and the EPSRC Grant EP/T019751/1 AI for Sound<br/>
+                -- 2024 Postgraduate Researcher of the Year Award - University of Surrey, CSEE"
     # - title: "Department of Computer Science and Engineering @ The Ohio State University, US, 01/2021 - 01/2022"
     #   image: "images/Ohio_State_University_seal.svg.png"
     #   comment: "-- PhD in Artificial Intelligence, Quit; advisor: [Prof. DeLiang Wang]<br/>
@@ -136,6 +137,7 @@ news:
         note: Present at Surrey Open Research Culture Event 2024 [<a href="https://www.youtube.com/watch?v=xmZJl8qOFWw">link to YouTube</a>] 
       - time: 2024-01-13 &#128227;
         note: The NaturalSpeech paper is accepted by the Journal - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 
+    hidden:
       - time: 2023-12-13 &#128227;
         note: Four papers were accepted by ICASSP 2024 this year. Many thanks to the collaborators and the feedback from reviewers! 
       - time: 2023-12-12 
@@ -144,7 +146,6 @@ news:
         note: Accepted by AAAI 2024 - DiffRes (Learning the Spectrogram Temporal Resolution for Audio Classification).
       - time: 2023-12-09 &#128227;
         note: Accepted by NeurIPS  2023 Workshop on Machine Learning for Audio - Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio.
-    hidden:
       - time: 2023-11-01 &#128100;
         note: Remotely present my research at Meta.
       - time: 2023-10-11 &#128100;
@@ -693,11 +694,11 @@ pubs:
 
 Email: *haohe.liu AT surrey dot ac dot uk*
 
-{% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris" width="190px" align="right" %}
+{% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris (August 2024)" width="190px" align="right" %}
 
 I’m Haohe Liu, a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times. 
 
-My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I have also been privileged to receive several accolades, such as the *University of Surrey CSEE Postgraduate Researcher of the Year Award* and the *Judges' Award* in international challenges like DCASE. Most of my research studies are open-sourced.
+My research includes topics related to speech, music, and general audio. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I have also been privileged to receive several awards, such as the *2024 Postgraduate Researcher of the Year Award* and the *Judges' Award* in international challenges like DCASE. I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering. Most of my research studies are open-sourced. 
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
@@ -744,6 +745,47 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 **{{edu.title}}** <br/>
 {{ edu.comment }}
 {% endfor %}
+
+## Community Services
+
+### Workshop/Challenge Organizations
+
+- Co-organizer of the special session: "[Generative AI for Media Generation](https://2024.ieeemlsp.org/498-2/)" at 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), London, UK.
+- Co-organizer of the [IEEE 2024 ICME Grand Challenge](https://2024.ieeeicme.org/grand-challenge-proposals/) "[Semi-supervised Acoustic Scene Classification under Domain Shift](https://arxiv.org/abs/2402.02694)"
+
+### Talks
+- 2024: MIT CSAIL Spoken Language Systems group (16 May), UK Acoustic Network (6 March), [Spotify (20 June)](https://youtu.be/wuueGced_Pg), Télécom Paris Listen Lab (17 Oct), Shanghai Jiao Tong University (9 Nov)
+- 2023: NetEase (17 Feb), TikTok (22 Feb), ByteDance (24 Feb), [Mila - Quebec AI Institute](https://www.youtube.com/watch?v=6qtL9_T8m3c) (26 Feb), Chinese Academy of Science (14 April),  Remin University of China (4 Oct), University of Cambridge (11 May), Huawei Helsinki R&D (11 Oct), Meta FAIR (1 Nov)
+
+### Conference Oral Presentations
+- 2024 Conference on Neural Information Processing Systems
+- 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing
+- 2023 IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events
+- 2021: A Tutorial on Music Source Separation, [ISMIR Music Demixing Workshop](https://www.youtube.com/watch?v=TntPVZ4ajIk&t=291s), Alexandre Défossez, Woosung Choi, Haohe Liu (12 Nov)
+
+### Reviewer Services
+I serve as a regular reviewer for the following journals:
+
+- Conference on Neural Information Processing Systems (NeurIPS) 2024 Audio Imagination Workshop
+- IEEE International Conference on Acoustics, Speech, and Signal Processing 2024
+- IEEE International Conference on Multimedia and Expo 2024
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Multimedia
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE/ACM Transactions on Audio Speech and Language Processing
+- International Journal on Information Fusion
+- Computer Speech & Language
+
+I also serve as a reviewer for the following conferences:
+
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024, 2025 
+- INTERSPEECH 2023, 2024, 2025
+- International Conference on Learning Representations (ICLR) 2025
+- ACM MultiMedia 2023, 2024
+- IEEE International Joint Conference on Neural Networks (IJCNN) 2025
+- IEEE International Conference on Multimedia & Expo (ICME) 2024, 2025
+- IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024
+
 
 ## Competitions
 <!-- - Second place in DCASE 2022 Challenge Task 5:Few-shot Bioacoustic Event Detection. [code][details][leaderboard]
