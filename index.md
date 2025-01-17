@@ -851,7 +851,7 @@ I also serve as a reviewer for the following conferences:
 
 {% include image.html url="images/piano.jpg" caption="" width="250px" align="center" %}
 
-{% include twitter.html %}
+<!-- {% include twitter.html %} -->
 
 <!--Hyperlinks -->
 [School of Computer Science]: https://jsj.nwpu.edu.cn/en/Home.htm
