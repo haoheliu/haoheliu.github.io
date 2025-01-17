@@ -706,13 +706,14 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 I’m a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I am fortunate to be supervised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering.
 
-I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
-
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
 
 ## Research highlights
+
 My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, JSTSP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
+
+I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
 
 Highlighted research performed as the first author:
 
