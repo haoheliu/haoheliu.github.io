@@ -6,7 +6,7 @@ permalink: /
 education:
     - title: "Centre for Vision, Speech and Signal Processing @ University of Surrey, UK, 01/2022 - 06/2025"
       image: "/images/surrey_logo.png"
-      comment: "-- PhD in Vision, Speech and Signal Processing; Main advisor: [Prof. Mark D. Plumbley]<br/>
+      comment: "-- PhD in Vision, Speech and Signal Processing; Main supervisor: [Prof. Mark D. Plumbley]<br/>
                 -- With a studentship from the CVSSP and the EPSRC Grant EP/T019751/1 AI for Sound<br/>
                 -- 2024 Postgraduate Researcher of the Year Award - University of Surrey, CSEE"
     # - title: "Department of Computer Science and Engineering @ The Ohio State University, US, 01/2021 - 01/2022"
@@ -15,7 +15,7 @@ education:
     #             -- GPA: 4.0/4.0"
     - title: "School of Computer Science @ Northwestern Polytechnical University, China, 09/2016 - 07/2020"
       image: "/images/nwpu.png"
-      comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology; Advisor: [Prof. Lei Xie]<br/>
+      comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology; Supervisor: [Prof. Lei Xie]<br/>
                 -- GPA: 3.8/4.0 (Top 5%)"
 
 jobs: 
@@ -704,7 +704,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris (August 2024)" width="190px" align="right" %}
 
-I’m a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I am fortunate to be advised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering.
+I’m a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. I am fortunate to be supervised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I'm a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). I'm a UK *Global Talent Visa* holder, endorsed by the Royal Academy of Engineering.
 
 I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
 
