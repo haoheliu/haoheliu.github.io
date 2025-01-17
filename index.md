@@ -754,8 +754,8 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 - Co-organizer of the [IEEE 2024 ICME Grand Challenge](https://2024.ieeeicme.org/grand-challenge-proposals/) "[Semi-supervised Acoustic Scene Classification under Domain Shift](https://arxiv.org/abs/2402.02694)"
 
 ### Talks
-- 2024: MIT CSAIL Spoken Language Systems group (16 May), UK Acoustic Network (6 March), [Spotify (20 June)](https://youtu.be/wuueGced_Pg), Télécom Paris Listen Lab (17 Oct), Shanghai Jiao Tong University (9 Nov)
-- 2023: NetEase (17 Feb), TikTok (22 Feb), ByteDance (24 Feb), [Mila - Quebec AI Institute](https://www.youtube.com/watch?v=6qtL9_T8m3c) (26 Feb), Chinese Academy of Science (14 April),  Remin University of China (4 Oct), University of Cambridge (11 May), Huawei Helsinki R&D (11 Oct), Meta FAIR (1 Nov)
+- **2024:** MIT CSAIL Spoken Language Systems group (16 May), UK Acoustic Network (6 March), [Spotify (20 June)](https://youtu.be/wuueGced_Pg), Télécom Paris Listen Lab (17 Oct), Shanghai Jiao Tong University (9 Nov)
+- **2023:** NetEase (17 Feb), TikTok (22 Feb), ByteDance (24 Feb), [Mila - Quebec AI Institute](https://www.youtube.com/watch?v=6qtL9_T8m3c) (26 Feb), Chinese Academy of Science (14 April),  Remin University of China (4 Oct), University of Cambridge (11 May), Huawei Helsinki R&D (11 Oct), Meta FAIR (1 Nov)
 
 ### Conference Oral Presentations
 - 2024 Conference on Neural Information Processing Systems
@@ -775,14 +775,14 @@ I serve as a regular reviewer for the following journals:
 
 I also serve as a reviewer for the following conferences:
 
-- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024, 2025 
-- INTERSPEECH 2023, 2024, 2025
-- International Conference on Learning Representations (ICLR) 2025
-- Conference on Neural Information Processing Systems (NeurIPS) 2024
-- ACM MultiMedia 2023, 2024
-- IEEE International Joint Conference on Neural Networks (IJCNN) 2025
-- IEEE International Conference on Multimedia & Expo (ICME) 2024, 2025
-- IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) **2024, 2025**
+- INTERSPEECH **2023, 2024, 2025**
+- International Conference on Learning Representations (ICLR) **2025**
+- Conference on Neural Information Processing Systems (NeurIPS) **2024**
+- ACM MultiMedia **2023, 2024**
+- IEEE International Joint Conference on Neural Networks (IJCNN) **2025**
+- IEEE International Conference on Multimedia & Expo (ICME) **2024, 2025**
+- IEEE International Workshop on Machine Learning for Signal Processing (MLSP) **2024**
 
 
 ## Competitions
