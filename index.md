@@ -713,7 +713,7 @@ I’m a final year PhD student at the [Centre for Vision Speech and Signal Proce
 
 My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, JSTSP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
-I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 50 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
+I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with over 40 research publications and 2100 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 8800 stars and have been downloaded more than 200000 times.
 
 Highlighted research performed as the first author:
 
