@@ -790,6 +790,7 @@ I serve as a regular reviewer for the following journals:
 
 - IEEE/ACM Transactions on Audio Speech and Language Processing
 - IEEE Transactions on Multimedia
+- IEEE Signal Processing Letters
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Neural Networks and Learning Systems
 - International Journal on Information Fusion
