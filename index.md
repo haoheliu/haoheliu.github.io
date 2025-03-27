@@ -799,6 +799,7 @@ I serve as a regular reviewer for the following journals:
 I also serve as a reviewer for the following conferences:
 
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) **2024, 2025**
+- International Conference on Computer Vision (ICCV) **2025**
 - INTERSPEECH **2023, 2024, 2025**
 - International Conference on Learning Representations (ICLR) **2025**
 - Conference on Neural Information Processing Systems (NeurIPS) **2024**
