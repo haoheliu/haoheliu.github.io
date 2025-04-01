@@ -18,19 +18,6 @@ education:
       comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology; Supervisor: [Prof. Lei Xie]<br/>
                 -- GPA: 3.8/4.0 (Top 5%)"
 
-jobs: 
-    - title: "Research Scientist Intern, Meta, Paris, 06/2024 - 10/2024"
-      image: "/images/meta-logo.png"
-      # comment: "-- PhD in Vision, Speech and Signal Processing; Main advisor: [Prof. Mark D. Plumbley]<br/>
-      #           -- With a studentship from the CVSSP and the EPSRC Grant EP/T019751/1 AI for Sound<br/>
-      #           -- 2024 Postgraduate Researcher of the Year Award - University of Surrey, CSEE"
-    - title: "Consultant, Riffusion, Remote, 10/2023 - 05/2024"
-      image: "/images/riffusion-logo.jpg"
-    - title: "Research Intern, Microsoft, Beijing, 10/2021 - 04/2022"
-      image: "/images/microsoft-logo.png"
-    - title: "Research Intern, ByteDance, Shanghai, 07/2020 - 09/2021"
-      image: "/images/bytedance-logo.png"  
-
 competitions:
     - title: First place
       author:  "Yi Yuan, **Haohe Liu**, Xubo Liu, Xiyuan Kang, Mark D.Plumbley, Wenwu Wang"
