@@ -744,16 +744,6 @@ Please refer to my Google Scholar Page for the full publication list: [![Google 
 {{ edu.comment }}
 {% endfor %}
 
-## Work/Internship Experience
-
-{% assign thumbnail="left" %}
-{% for job in page.jobs %}
-{% if job.image %}
-{% include image_original.html url=job.image caption="" width="20px" align=thumbnail %}
-{% endif %}
-**{{job.title}}** <br/>
-{{ job.comment }}
-{% endfor %}
 
 ## Community Services
 
