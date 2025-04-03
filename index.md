@@ -87,7 +87,7 @@ competitions:
 news:
     shown:
       - time: 2025-03-04 &#128100;
-        note: Poster presentation at the Launch of UK AI Hub in Generative Models [<a href="https://www.genai.ac.uk/news-feed/gen-ai-research-poster-exhibition">[Website]</a>].
+        note: Poster presentation at the Launch of UK AI Hub in Generative Models [<a href="https://www.genai.ac.uk/news-feed/gen-ai-research-poster-exhibition">Website</a>].
       - time: 2025-01-01 &#128227; 
         note: FlowSep is accepted by the IEEE International Conference on Acoustics Speech and Signal Processing!
       - time: 2024-12-14 &#128100;
@@ -99,11 +99,11 @@ news:
       - time: 2024-11-25 &#128227; 
         note: Accepted by IEEE Transactions on Automation Science and Engineering - Multimodal Fish Feeding Intensity Assessment in Aquaculture - Congrat Meng Cui et al.!
       - time: 2024-11-23 &#127942;
-        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE! [<a href="https://www.linkedin.com/pulse/cvssp-researcher-awarded-prestigious-award-cvssp-8y4we">[Linkedin Post]</a>]
+        note: Deeply honored to receive the Post Graduate Researcher of the Year Award for CSEE! [<a href="https://www.linkedin.com/pulse/cvssp-researcher-awarded-prestigious-award-cvssp-8y4we">Linkedin Post</a>]
       - time: 2024-11-14 &#128100;
         note: Visited NWPU (my undergrad university) and gave a talk.
       - time: 2024-11-09 &#128100;
-        note: Presentation at the Shanghai Jiao Tong University X-LANCE lab [<a href="https://www.bilibili.com/video/BV1JjmBYYEoW">[Recording]</a>].
+        note: Presentation at the Shanghai Jiao Tong University X-LANCE lab [<a href="https://www.bilibili.com/video/BV1JjmBYYEoW">Recording</a>].
       - time: 2024-10-30 &#128227; 
         note: The <a href="https://haoheliu.github.io/SemantiCodec/">SemantiCodec</a> is accepted by the IEEE Journal of Selected Topics in Signal Processing.
       - time: 2024-10-17 &#128100;
