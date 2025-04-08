@@ -219,10 +219,6 @@ news:
         note: A paper was accepted in INTERSPEECH 2021.
       - time: 2020-07-24 &#128227;
         note: A paper was accepted in INTERSPEECH 2020.
-      - time: 2020-07-12 &#127891;
-        note: Graduated from Northwestern Polytechnical University with a bachelor's degree and outstanding graduate award!
-      - time: 2020-01-21 &#128195;
-        note: Accept a Ph.D. offer from the Ohio State University!
 
 pubs:
     - title:   "👤 Learning the Spectrogram Temporal Resolution for Audio Classification"
