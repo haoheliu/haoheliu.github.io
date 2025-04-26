@@ -767,7 +767,6 @@ I serve as a regular reviewer for the following journals:
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Neural Networks and Learning Systems
 - International Journal on Information Fusion
-- Computer Speech & Language
 
 I also serve as a reviewer for the following conferences:
 
