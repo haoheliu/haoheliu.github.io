@@ -86,6 +86,8 @@ competitions:
 
 news:
     shown:
+      - time: 2025-05-30 &#129495;
+        note: Grand challenge we are organising is officially launched at the 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference - "City and Time-Aware Semi-supervised Acoustic Scene Classification" - [<a href="https://www.apsipa2025.org/wp/grand-challenge/">challenge website</a>]
       - time: 2025-03-04 &#128100;
         note: Poster presentation at the Launch of UK AI Hub in Generative Models [<a href="https://www.genai.ac.uk/news-feed/gen-ai-research-poster-exhibition">Website</a>].
       - time: 2025-01-01 &#128227; 
