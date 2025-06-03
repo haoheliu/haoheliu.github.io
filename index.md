@@ -89,7 +89,7 @@ news:
       - time: 2025-05-30 &#129495;
         note: Grand challenge we are organising is officially launched at the 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference - "City and Time-Aware Semi-supervised Acoustic Scene Classification" - [<a href="https://www.apsipa2025.org/wp/grand-challenge/">challenge website</a>]
       - time: 2025-05-23 &#128227; 
-        note: Accepted by INTERSPEECH 2025 - EnvSDD: Benchmarking Environmental Sound Deepfake Detection.
+        note: Accepted by INTERSPEECH 2025 - EnvSDD - Benchmarking Environmental Sound Deepfake Detection.
       - time: 2025-05-04 &#128227; 
         note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - Zero-Shot Audio Captioning Using Soft and Hard Prompts
       - time: 2025-03-04 &#128100;
