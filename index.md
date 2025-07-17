@@ -86,6 +86,8 @@ competitions:
 
 news:
     shown:
+      - time: 2025-06-09 &#128188;
+        note: Started my new role as a Research Scientist of Meta AI, Redmond, WA, USA.
       - time: 2025-05-30 &#129495;
         note: Grand challenge we are organising is officially launched at the 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference - "City and Time-Aware Semi-supervised Acoustic Scene Classification" - [<a href="https://www.apsipa2025.org/wp/grand-challenge/">challenge website</a>]
       - time: 2025-05-23 &#128227; 
