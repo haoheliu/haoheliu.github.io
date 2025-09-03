@@ -778,8 +778,10 @@ I serve as a regular reviewer for the following journals:
 
 I also serve as a reviewer for the following conferences:
 
+- International Conference on Learning Representations **2026**
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) **2024, 2025**
 - International Conference on Computer Vision (ICCV) **2025**
+- AAAI Conference on Artificial Intelligence **2026**
 - INTERSPEECH **2023, 2024, 2025**
 - International Conference on Learning Representations (ICLR) **2025**
 - Conference on Neural Information Processing Systems (NeurIPS) **2024**
@@ -788,7 +790,6 @@ I also serve as a reviewer for the following conferences:
 - IEEE International Conference on Multimedia & Expo (ICME) **2024, 2025**
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP) **2024**
 - IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) **2025**
-
 
 ## Competitions
 <!-- - Second place in DCASE 2022 Challenge Task 5:Few-shot Bioacoustic Event Detection. [code][details][leaderboard]
