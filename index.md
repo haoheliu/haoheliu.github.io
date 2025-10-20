@@ -86,6 +86,10 @@ competitions:
 
 news:
     shown:
+      - time: 2025-10-20 &#128227;
+        note: Best Technical Paper Award at the 159th AES Convention - Exploring the User Experience of AI-Assisted Sound Searching Systems for Creative Workflows [<a href="https://aes2.org/publications/elibrary-page/?id=23077">Paper</a>].
+      - time: 2025-10-08 &#128100;
+        note: Present at IEEE JSTSP Webinar - Overview of Special Issue on Neural Speech and Audio Coding [<a href="https://signalprocessingsociety.org/events/sps-jstsp-webinar-overview-special-issue-neural-speech-and-audio-coding">Website</a>].
       - time: 2025-06-09 &#128188;
         note: Started my new role as a Research Scientist of Meta AI, Redmond, WA, USA.
       - time: 2025-05-30 &#129495;
