@@ -815,20 +815,8 @@ I also serve as a reviewer for the following conferences:
 {% endif %}
 {% endfor %}
 
-
-## Honors & Awards
-
-### Scholarships
-- **2024 Vice-Chancellor’s Award for Teaching and Research Excellence - School Post Graduate Researcher of the Year** - University of Surrey
-- **Judges' Award** - DCASE 2023, Tampere, Finland
-- **Doctoral College Scholarship**, tuition waiver with stipend, University of Surrey
-- **Outstanding Graduate Students**, Northwestern Polytechnical University, 2020-2021
-- **WuYaJun third class scholarship**, 2019
-- **National Scholarship**, Northwestern Polytechnical University (top 1.5%), 2017 and 2018, **two consecutive years**
-- **First-class Scholarship**, Northwestern Polytechnical University (top 14.7%), 2016 to 2019, **three consecutive years**
-- **Gratitude to Scientists of Modern Times National Scholarship** (top 0.5%), 2018
-
 ## Teaching
+
 
 - Guest Lecturer, EEEM068 Applied Machine Learning, University of Surrey, 2024
 - Demonstrator, EEE3008 Fundamentals of DSP, University of Surrey, 2022/23 Semester 1
