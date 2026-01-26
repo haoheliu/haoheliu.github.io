@@ -90,6 +90,8 @@ news:
         note: Best Technical Paper Award at the 159th AES Convention - Exploring the User Experience of AI-Assisted Sound Searching Systems for Creative Workflows [<a href="https://aes2.org/publications/elibrary-page/?id=23077">Paper</a>].
       - time: 2025-10-08 &#128100;
         note: Present at IEEE JSTSP Webinar - Overview of Special Issue on Neural Speech and Audio Coding [<a href="https://signalprocessingsociety.org/events/sps-jstsp-webinar-overview-special-issue-neural-speech-and-audio-coding">Website</a>].
+      - time: 2025-06-12 &#128227; 
+        note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - AudioSetCaps - An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models
       - time: 2025-06-09 &#128188;
         note: Started my new role as a Research Scientist of Meta AI, Redmond, WA, USA.
       - time: 2025-05-30 &#129495;
@@ -98,6 +100,8 @@ news:
         note: Accepted by INTERSPEECH 2025 - EnvSDD - Benchmarking Environmental Sound Deepfake Detection.
       - time: 2025-05-04 &#128227; 
         note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - Zero-Shot Audio Captioning Using Soft and Hard Prompts
+      - time: 2025-04-22 &#128227; 
+        note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - WavJourney - Compositional Audio Creation with Large Language Models
       - time: 2025-03-04 &#128100;
         note: Poster presentation at the Launch of UK AI Hub in Generative Models [<a href="https://www.genai.ac.uk/news-feed/gen-ai-research-poster-exhibition">Website</a>].
       - time: 2025-01-01 &#128227; 
