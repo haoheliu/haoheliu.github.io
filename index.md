@@ -90,6 +90,8 @@ news:
         note: Best Technical Paper Award at the 159th AES Convention - Exploring the User Experience of AI-Assisted Sound Searching Systems for Creative Workflows [<a href="https://aes2.org/publications/elibrary-page/?id=23077">Paper</a>].
       - time: 2025-10-08 &#128100;
         note: Present at IEEE JSTSP Webinar - Overview of Special Issue on Neural Speech and Audio Coding [<a href="https://signalprocessingsociety.org/events/sps-jstsp-webinar-overview-special-issue-neural-speech-and-audio-coding">Website</a>].
+      - time: 2025-08-23 &#128227; 
+        note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - Universal Source Separation with Weakly Labelled Data for Computational Auditory Scene Analysis
       - time: 2025-06-12 &#128227; 
         note: Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing! - AudioSetCaps - An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models
       - time: 2025-06-09 &#128188;
