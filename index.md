@@ -716,7 +716,7 @@ I'm a Research Scientist at Meta FAIR (Seattle, WA, USA). I received my PhD at t
 
 My research includes tasks related to the audio generative model, source separation, quality enhancement, and recognition, appeared in journals and conferences such as TPAMI, TASLP, JSTSP, ICML, AAAI, NeurIPS, INTERSPEECH, and ICASSP.
 
-I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 3000 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 9500 stars.
+I'm the first author of paper such as AudioLDM, AudioLDM 2, NaturalSpeech, VoiceFixer, SemantiCodec, MusicLDM, AudioSR, etc., with around 4500 citations. Most of my research studies are open-sourced. My open-source projects/checkpoints on GitHub have received over 10000 stars.
 
 Highlighted research performed as the first author:
 
