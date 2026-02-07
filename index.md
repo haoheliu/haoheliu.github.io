@@ -707,7 +707,7 @@ Email: *haohe.liu AT surrey dot ac dot uk*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris (August 2024)" width="190px" align="right" %}
 
-I'm working as a Research Scientist at Meta, Redmond, WA, USA. I’m also a final year PhD student at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey. At surrey, I was fortunate to be supervised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College. I was a team member of the EPSRC [AI for Sound] Project (EP/T019751/1). 
+I'm a Research Scientist at Meta FAIR (Seattle, WA, USA). I received my PhD at the [Centre for Vision Speech and Signal Processing] (CVSSP), University of Surrey, Guildford, UK. During my PhD, I was fortunate to be supervised by [Prof. Mark D. Plumbley], co-supervised by [Prof. Wenwu Wang]. And I’m lucky to be jointly funded by [BBC R&D] and the Doctoral College.
 
 <!-- In the CVSSP, I’m working as part of the [AI for Sound] project to develop new methods for automatic labelling of sound environments and events in broadcast audio, assisting production staff in finding and searching through content and helping the general public access archive content.  -->
 <!-- I’m also working closely with BBC R&D Audio Team on putting our audio recognition algorithms into production, such as generating machine tags in [BBC sound effect library]. -->
