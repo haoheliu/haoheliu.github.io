@@ -703,7 +703,7 @@ pubs:
 
 [![GitHub stars](https://img.shields.io/github/stars/haoheliu?style=social)](https://github.com/haoheliu) &nbsp;&nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/LiuHaohe?style=social)](https://twitter.com/LiuHaohe) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/haohe-liu-4483a71a4/) &nbsp;&nbsp; [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=g3O4lJMAAAAJ)
 
-Email: *haohe.liu AT surrey dot ac dot uk*
+📧 Email: *haoheliu AT gmail dot com*
 
 {% include image.html url="images/haohe_paris.jpg" caption="At the Pont de Bir-Hakeim, Paris (August 2024)" width="190px" align="right" %}
 
